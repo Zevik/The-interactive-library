@@ -1,0 +1,80 @@
+/* css/style.css */
+
+:root {
+  --primary-color: #005a9e;
+  --light-gray: #f4f4f4;
+  --dark-gray: #333;
+  --text-color: #222;
+  --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+  font-family: var(--font-family);
+  line-height: 1.6;
+  margin: 0;
+  background-color: #fff;
+  color: var(--text-color);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  direction: rtl;
+}
+
+.site-header {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 1rem 2rem;
+  text-align: center;
+}
+
+.site-header a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+main {
+  flex: 1; /* This makes the main content grow to fill available space */
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Styles for the homepage list */
+main ul {
+    list-style: none;
+    padding: 0;
+}
+main li a {
+    display: block;
+    padding: 1rem;
+    background-color: var(--light-gray);
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+    text-decoration: none;
+    color: var(--primary-color);
+    font-weight: 500;
+    transition: background-color 0.2s, transform 0.2s;
+}
+main li a:hover {
+    background-color: #e9e9e9;
+    transform: translateY(-2px);
+}
+
+
+.site-footer {
+  background-color: var(--dark-gray);
+  color: #ccc;
+  text-align: center;
+  padding: 1.5rem;
+  margin-top: 2rem;
+}
+
+h1, h2, h3 {
+  line-height: 1.2;
+  color: var(--dark-gray);
+}

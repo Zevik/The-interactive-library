@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} - הספרייה האינטראקטיבית</title>
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
+
+    <header class="site-header">
+      <a href="/">הספרייה האינטראקטיבית</a>
+    </header>
+
+    <main>
+      {{ content | safe }}
+    </main>
+    
+    <nav class="post-navigation">
+    {%- set nextPost = collections.post | getNextCollectionItem(page) -%}
+    {%- set previousPost = collections.post | getPreviousCollectionItem(page) -%}
+    {% if nextPost or previousPost %}
+        <hr>
+        <ul style="display: flex; justify-content: space-between; list-style: none; padding: 0;">
+            <li>{% if previousPost %}<a href="{{ previousPost.url }}">→ הפריט הקודם: {{ previousPost.data.title }}</a>{% endif %}</li>
+            <li>{% if nextPost %}<a href="{{ nextPost.url }}">הפריט הבא: {{ nextPost.data.title }} ←</a>{% endif %}</li>
+        </ul>
+    {% endif %}
+    </nav>
+
+    <footer class="site-footer">
+      <p>© {{ "now" | date("YYYY") }} - כל הזכויות שמורות</p>
+    </footer>
+
+  </body>
+</html>
