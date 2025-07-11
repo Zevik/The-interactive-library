@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "הצליל שמשנה גובה בתנועה: אפקט דופלר - סימולציה אינטראקטיבית"
 english_slug: the-sound-that-changes-pitch-in-motion-doppler-effect-interactive

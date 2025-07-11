@@ -1,6 +1,4 @@
 ---
----
----
 title: "דמו: איך המוח מגיב לרמזים נסתרים (הטרמה)"
 english_slug: lexical-decision-priming
 category: "פסיכולוגיה קוגניטיבית"

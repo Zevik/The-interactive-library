@@ -1,6 +1,4 @@
 ---
----
----
 title: "אתגר המוח: מבחן סטרופ הקלאסי"
 english_slug: stroop-test-color-naming
 category: "פסיכולוגיה ניסויית"

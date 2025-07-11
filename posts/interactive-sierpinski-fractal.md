@@ -1,6 +1,4 @@
 ---
----
----
 title: "מסע אל תוך פרקטלים: יוצרים את משולש שרפינסקי"
 english_slug: interactive-sierpinski-fractal
 category: "מתמטיקה ויזואלית"

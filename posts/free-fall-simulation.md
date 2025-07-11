@@ -1,6 +1,4 @@
 ---
----
----
 title: "המירוץ הגדול: חוקי נפילה חופשית בהדמיה מרהיבה"
 english_slug: free-fall-simulation
 category: "פיזיקה"
