@@ -1,7 +1,7 @@
 ---
 title: "מסע המים הקסום: גלו את מחזור המים בטבע!"
 english_slug: water-cycle-interactive
-category: "מדע"
+category: "כללי"
 tags:
   - מים
   - טבע

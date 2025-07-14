@@ -1,7 +1,7 @@
 ---
 title: "גלגל הצבעים - המעבדה המרכזית לשילובי צבעים"
 english_slug: color-wheel-tool
-category: "פיזיקה - אור וצבע"
+category: "מדעים מדויקים / פיזיקה"
 tags:
   - צבע
   - עיצוב

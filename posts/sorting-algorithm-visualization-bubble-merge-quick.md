@@ -1,7 +1,7 @@
 ---
 title: "הדמיית אלגוריתמי מיון: השוואה ויזואלית חווייתית"
 english_slug: sorting-algorithm-visualization-bubble-merge-quick
-category: "מדעי המחשב"
+category: "טכנולוגיה / מדעי המחשב"
 tags:
   - אלגוריתמים
   - מבני נתונים

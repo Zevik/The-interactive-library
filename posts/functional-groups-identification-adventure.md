@@ -1,7 +1,7 @@
 ---
 title: "הרפתקת זיהוי קבוצות פונקציונליות"
 english_slug: functional-groups-identification-adventure
-category: "כימיה"
+category: "מדעים מדויקים / כימיה"
 tags: [כימיה אורגנית, קבוצות פונקציונליות, לימוד אינטראקטיבי, מולקולות, משחק חינוכי]
 ---
 

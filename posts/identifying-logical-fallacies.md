@@ -1,7 +1,7 @@
 ---
 title: "לזהות כשלים לוגיים: סימולציה אינטראקטיבית"
 english_slug: identifying-logical-fallacies
-category: "לוגיקה וחשיבה ביקורתית"
+category: "מדעים מדויקים / מתמטיקה"
 tags: [interactive, logic, critical-thinking, fallacies, simulation, game]
 ---
 

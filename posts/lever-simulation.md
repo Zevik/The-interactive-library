@@ -1,7 +1,7 @@
 ---
 title: "מנופים בפעולה: משחק של כוח, מרחק ואיזון"
 english_slug: lever-simulation
-category: "פיזיקה"
+category: "מדעים מדויקים / פיזיקה"
 tags:
   - פיזיקה
   - מכניקה

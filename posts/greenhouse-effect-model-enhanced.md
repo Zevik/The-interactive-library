@@ -1,7 +1,7 @@
 ---
 title: "אינטראקציה אטמוספרית: מודל אפקט החממה"
 english_slug: greenhouse-effect-model-enhanced
-category: "פיזיקה ואקלים"
+category: "מדעים מדויקים / פיזיקה"
 tags:
   - אקלים
   - פיזיקה

@@ -1,7 +1,7 @@
 ---
 title: "מסע ה-pH: מבחנה אינטראקטיבית"
 english_slug: ph-scale-virtual-test-tube
-category: "כימיה"
+category: "מדעים מדויקים / כימיה"
 tags: [סימולציה, אינטראקטיבי, ניסוי, חומצות ובסיסים, pH]
 ---
 # גלו את קסם ה-pH!

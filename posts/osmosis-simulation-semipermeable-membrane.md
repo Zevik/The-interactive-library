@@ -1,7 +1,7 @@
 ---
 title: "הדמיית אוסמוזה: מסע המים בממברנה"
 english_slug: osmosis-simulation-semipermeable-membrane
-category: "ביולוגיה"
+category: "מדעי החיים / ביולוגיה"
 tags: [ביוכימיה, תאים, מדע, הדמיה, אינטראקטיבי]
 ---
 # אוסמוזה: מסע המים הבלתי נראה

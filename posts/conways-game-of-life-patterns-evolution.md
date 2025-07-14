@@ -1,7 +1,7 @@
 ---
 title: "משחק החיים של קונוויי: יצירת תבניות ואבולוציה"
 english_slug: conways-game-of-life-patterns-evolution
-category: "מדעי המחשב"
+category: "טכנולוגיה / מדעי המחשב"
 tags:
   - סימולציה
   - אוטומטים תאיים

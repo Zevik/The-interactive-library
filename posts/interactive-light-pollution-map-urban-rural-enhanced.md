@@ -1,7 +1,7 @@
 ---
 title: "מסע לכוכבים: הדמיית זיהום אור והשפעתו על שמי הלילה"
 english_slug: interactive-light-pollution-map-urban-rural-enhanced
-category: "אסטרונומיה וסביבה"
+category: "מדעים מדויקים / אסטרונומיה"
 tags:
   - אסטרונומיה
   - סביבה

@@ -1,7 +1,7 @@
 ---
 title: "מסע אל הלב של התנועה האקראית: סימולטור תנועה בראונית"
 english_slug: brownian-motion-simulator-journey-into-random-motion
-category: "פיזיקה"
+category: "מדעים מדויקים / פיזיקה"
 tags:
   - פיזיקה
   - סימולציה

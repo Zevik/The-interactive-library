@@ -1,7 +1,7 @@
 ---
 title: "מסע אל לב כדור הארץ: שכבות עמוקות"
 english_slug: interactive-earth-layers-cross-section
-category: "גיאוגרפיה"
+category: "מדעי הסביבה / גאוגרפיה"
 tags:
   - מדע
   - כדור הארץ

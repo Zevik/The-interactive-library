@@ -1,7 +1,7 @@
 ---
 title: "דילמת האסיר של סיבוב אחד"
 english_slug: one-shot-prisoners-dilemma
-category: "תיאוריה של משחקים"
+category: "מדעים מדויקים / מתמטיקה"
 tags:
   - משחק אסטרטגי
   - כלכלה התנהגותית

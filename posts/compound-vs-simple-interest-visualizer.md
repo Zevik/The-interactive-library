@@ -1,7 +1,7 @@
 ---
 title: "הכוח החזותי של ריבית דריבית מול ריבית פשוטה: מחשבון אינטראקטיבי"
 english_slug: compound-vs-simple-interest-visualizer
-category: "פיננסים"
+category: "מדעי החברה / כלכלה ופיננסים"
 tags:
   - ריבית
   - חיסכון

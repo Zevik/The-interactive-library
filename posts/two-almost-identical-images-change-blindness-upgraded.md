@@ -1,7 +1,7 @@
 ---
 title: "שתי תמונות כמעט זהות... האם תצליחו למצוא את ההבדל היחיד?"
 english_slug: two-almost-identical-images-change-blindness-upgraded
-category: "מדע"
+category: "כללי"
 tags:
   - פסיכולוגיה
   - תפיסה

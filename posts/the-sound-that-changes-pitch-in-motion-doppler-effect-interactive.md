@@ -1,7 +1,7 @@
 ---
 title: "הצליל שמשנה גובה בתנועה: אפקט דופלר - סימולציה אינטראקטיבית"
 english_slug: the-sound-that-changes-pitch-in-motion-doppler-effect-interactive
-category: "פיזיקה"
+category: "מדעים מדויקים / פיזיקה"
 tags: ["אפקט דופלר", "גלים", "תדר", "תנועה יחסית", "אקוסטיקה", "סימולציה"]
 ---
 <h1>הצליל שמשנה גובה בתנועה: אפקט דופלר</h1>

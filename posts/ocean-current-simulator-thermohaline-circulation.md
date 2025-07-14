@@ -1,7 +1,7 @@
 ---
 title: "המסוע הימי העולמי: סימולטור זרמי עומק"
 english_slug: ocean-current-simulator-thermohaline-circulation
-category: "הדמיות מדעיות"
+category: "כללי"
 tags:
   - אקלים
   - אוקיינוגרפיה

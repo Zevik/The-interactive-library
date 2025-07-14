@@ -1,7 +1,7 @@
 ---
 title: "מים מתאזנים: החידה הוויזואלית של כלים שלובים"
 english_slug: water-leveling-connected-vessels-simulation
-category: "פיזיקה והידרוסטטיקה"
+category: "מדעים מדויקים / פיזיקה"
 tags:
   - סימולציה
   - אינטראקטיבי
