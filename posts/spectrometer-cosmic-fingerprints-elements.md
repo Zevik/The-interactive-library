@@ -1,7 +1,7 @@
 ---
 title: "ספקטרוסקופ: טביעות האצבע הקוסמיות של יסודות"
 english_slug: spectrometer-cosmic-fingerprints-elements
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - ספקטרוסקופיה
   - אור

@@ -1,7 +1,7 @@
 ---
 title: "מחשבה או ניסוי? מסע מרתק אל שחר המדע המודרני"
 english_slug: thought-or-experiment-the-evolution-of-science
-category: "מדעי הרוח / היסטוריה של המדע"
+category: "היסטוריה של המדע"
 tags:
   - התפתחות המדע
   - פילוסופיה יוונית

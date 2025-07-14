@@ -1,7 +1,7 @@
 ---
 title: "מבצע 'מילה מקשרת': פענוח צפנים בטיעון"
 english_slug: operation-connecting-word-decoding-links-in-argument
-category: "מדעי הרוח / כללי"
+category: "כללי"
 tags: [קשרים לוגיים, טקסט טיעוני, ניתוח טקסט, רטוריקה, עברית]
 ---
 # מבצע 'מילה מקשרת': פענוח צפנים בטיעון

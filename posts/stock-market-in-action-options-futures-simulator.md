@@ -1,7 +1,7 @@
 ---
 title: "שוק ההון בפעולה: סימולטור אופציות וחוזים"
 english_slug: stock-market-in-action-options-futures-simulator
-category: "מדעי החברה / כלכלה ופיננסים"
+category: "כלכלה"
 tags:
   - שוק ההון
   - אופציות

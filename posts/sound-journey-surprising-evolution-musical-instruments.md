@@ -1,7 +1,7 @@
 ---
 title: "מסע הצליל: האבולוציה המפתיעה של כלי הנגינה"
 english_slug: sound-journey-surprising-evolution-musical-instruments
-category: "אמנות ועיצוב / מוזיקה"
+category: "מוזיקה"
 tags:
   - כלי נגינה
   - היסטוריה של המוזיקה

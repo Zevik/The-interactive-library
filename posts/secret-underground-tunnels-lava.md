@@ -1,7 +1,7 @@
 ---
 title: "מסע אל בטן האדמה: סוד היווצרות מנהרות הלבה"
 english_slug: secret-underground-tunnels-lava
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - לבה
   - הרי געש

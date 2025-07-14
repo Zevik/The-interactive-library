@@ -1,7 +1,7 @@
 ---
 title: "מסע הענב: מהכרם הקסום לבקבוק האציל"
 english_slug: the-grapes-journey-from-vineyard-to-noble-bottle
-category: "מדעים מדויקים / כימיה"
+category: "כימיה"
 tags:
   - ייצור יין
   - תסיסה אלכוהולית

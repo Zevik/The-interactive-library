@@ -1,7 +1,7 @@
 ---
 title: "הסוד הסימטרי של השימור: משפט נתר"
 english_slug: the-symmetric-secret-of-conservation-noethers-theorem
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: [פיזיקה, סימטריה, שימור, משפט נתר, מכניקה אנליטית]
 ---
 # הסוד הסימטרי של השימור: משפט נתר

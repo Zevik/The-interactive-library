@@ -1,7 +1,7 @@
 ---
 title: "נמלים בעבודה: סימולציית מושבת נמלים"
 english_slug: ants-at-work-ant-colony-simulation
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - נמלים
   - מושבה

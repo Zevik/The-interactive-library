@@ -1,7 +1,7 @@
 ---
 title: "אמנות האש והבוץ: סודות הפורצלן הסיני - סימולטור"
 english_slug: art-of-fire-and-clay-chinese-porcelain-simulator
-category: "טכנולוגיה / הנדסת חומרים"
+category: "הנדסת חומרים"
 tags:
   - פורצלן
   - קאולין

@@ -1,7 +1,7 @@
 ---
 title: "זיכרון מגנטי-אופטי: האור שזוכר ומספר"
 english_slug: magnetic-optical-memory-the-light-that-remembers
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - זיכרון
   - אופטיקה

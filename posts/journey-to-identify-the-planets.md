@@ -1,7 +1,7 @@
 ---
 title: "זיהוי כוכבי לכת: האתגר הגדול"
 english_slug: journey-to-identify-the-planets
-category: "מדעים מדויקים / אסטרונומיה"
+category: "אסטרונומיה"
 tags: ["כוכבי לכת", "מערכת השמש", "חלל", "זיהוי", "אסטרונומיה", "מדע", "חידון", "אינטראקטיבי"]
 ---
 <div class="space-background">

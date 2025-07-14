@@ -1,7 +1,7 @@
 ---
 title: "חקירת תנועת מטוטלת: גלו את הסודות!"
 english_slug: pendulum-simulator
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - מכניקה
   - תנועה מחזורית

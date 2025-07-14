@@ -1,7 +1,7 @@
 ---
 title: "גלוי אוזן: מסע צלילי בתזמורת הסימפונית"
 english_slug: symphony-orchestra-sound-journey
-category: "אמנות ועיצוב / מוזיקה"
+category: "מוזיקה"
 tags:
   - מוסיקה
   - תזמורת

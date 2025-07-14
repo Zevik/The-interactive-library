@@ -1,7 +1,7 @@
 ---
 title: "רואים רחוק: הדמיית לידאר למיפוי ולרכב אוטונומי"
 english_slug: seeing-far-lidar-simulation-mapping-autonomous-vehicles
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - לידאר
   - לייזר

@@ -1,7 +1,7 @@
 ---
 title: "קרב הטיפוגרפיה: סריף נגד סאנס-סריף"
 english_slug: font-wars-serif-or-sans-serif
-category: "אמנות ועיצוב / עיצוב גרפי"
+category: "עיצוב גרפי"
 tags:
   - טיפוגרפיה
   - פונטים

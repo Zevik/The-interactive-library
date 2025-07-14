@@ -1,7 +1,7 @@
 ---
 title: "מסע הסיבים לנייר: מכותנה וסמרטוטים בדרך הישנה"
 english_slug: the-old-way-to-make-paper-from-cotton-and-rags
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags: [היסטוריה של טכנולוגיה, ייצור נייר, חומרי גלם, ימי הביניים, מלאכה היסטורית, מיחזור, סיבים]
 ---
 <div class="page-intro">

@@ -1,7 +1,7 @@
 ---
 title: "הסוד ההידראולי: כך עוצרים רכב בלחיצת רגל קלה"
 english_slug: the-hydraulic-secret-how-car-brakes-work
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - בלמים
   - הידראוליקה

@@ -1,7 +1,7 @@
 ---
 title: "הקרב הגדול: וירוס פולש לתא"
 english_slug: viral-host-cell-war-journey-inside-host-cell
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - וירוסים
   - שכפול ויראלי

@@ -1,7 +1,7 @@
 ---
 title: "מודל אש יער: כשהכאוס והסדר נפגשים באוטומט תאי"
 english_slug: forest-fire-model-cellular-automaton-chaos-order
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - אוטומט תאי
   - מודל אש יער

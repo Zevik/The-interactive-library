@@ -1,7 +1,7 @@
 ---
 title: "קסם הצלילים: מסע בעקבות הכוונון המוזיקלי"
 english_slug: why-does-music-sound-good-from-pythagorean-to-equal-temperament
-category: "אמנות ועיצוב / מוזיקה"
+category: "מוזיקה"
 tags: מוזיקה, תיאוריה, כוונון, טמפרמנט מושווה, פיתגורס, אקוסטיקה, סאונד
 ---
 # קסם הצלילים: מסע בעקבות הכוונון המוזיקלי

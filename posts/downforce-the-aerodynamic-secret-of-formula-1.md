@@ -1,7 +1,7 @@
 ---
 title: "כוח ההצמדה: הסוד האווירודינמי של פורמולה 1"
 english_slug: downforce-the-aerodynamic-secret-of-formula-1
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - אווירודינמיקה
   - פורמולה 1

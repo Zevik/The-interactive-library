@@ -1,7 +1,7 @@
 ---
 title: "קסם המינטור: כך נוצר NFT"
 english_slug: the-magic-of-minting-how-an-nft-is-created
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - NFT
   - בלוקצ'יין

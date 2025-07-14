@@ -1,7 +1,7 @@
 ---
 title: "סימולטור Hashing דינמי"
 english_slug: dynamic-hashing-simulator
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - אלגוריתמים
   - מבני נתונים

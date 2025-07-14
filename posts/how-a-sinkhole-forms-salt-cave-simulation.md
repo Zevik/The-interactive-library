@@ -1,7 +1,7 @@
 ---
 title: "איך נוצר בולען? סימולציה של מערות מלח"
 english_slug: how-a-sinkhole-forms-salt-cave-simulation
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - בולענים
   - מערות מלח

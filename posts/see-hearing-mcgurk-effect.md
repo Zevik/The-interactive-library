@@ -1,7 +1,7 @@
 ---
 title: "לראות שמיעה: אפקט מקגורק"
 english_slug: see-hearing-mcgurk-effect
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags:
   - פסיכולוגיה קוגניטיבית
   - תפיסה חושית

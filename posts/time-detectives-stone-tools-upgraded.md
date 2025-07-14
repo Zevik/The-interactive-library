@@ -1,7 +1,7 @@
 ---
 title: "בלשים בזמן: פענוח סודות כלי האבן הקדומים"
 english_slug: time-detectives-stone-tools-upgraded
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags: [ארכאולוגיה, כלים קדומים, תקופת האבן, אבולוציה טכנולוגית, ממצאים, אינטראקטיבי]
 ---
 <!DOCTYPE html>

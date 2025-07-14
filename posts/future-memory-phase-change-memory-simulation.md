@@ -1,7 +1,7 @@
 ---
 title: "זיכרון העתיד בידיים שלך: הדמיית זיכרון שינוי פאזה (PCM)"
 english_slug: future-memory-phase-change-memory-simulation
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: [זיכרון מחשב, Phase Change Memory, מדע חומרים, אחסון נתונים, אלקטרוניקה, טכנולוגיה]
 ---
 # זיכרון העתיד בידיים שלך: הדמיית זיכרון שינוי פאזה (PCM)

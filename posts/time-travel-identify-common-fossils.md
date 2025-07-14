@@ -1,7 +1,7 @@
 ---
 title: "בלשי העבר: פענוח מאובנים נפוצים"
 english_slug: time-travel-identify-common-fossils
-category: "מדעי הסביבה / פלאונטולוגיה"
+category: "פלאונטולוגיה"
 tags: [מאובנים, פליאונטולוגיה, גאולוגיה, אמוניטים, טרילוביטים, מסע בזמן]
 ---
 <div class="intro-text">

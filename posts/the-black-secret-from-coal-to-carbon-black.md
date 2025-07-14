@@ -1,7 +1,7 @@
 ---
 title: "הסוד השחור: מפחם ל-Carbon Black"
 english_slug: the-black-secret-from-coal-to-carbon-black
-category: "טכנולוגיה / הנדסה כימית"
+category: "הנדסה כימית"
 tags: [Carbon black, פחם, כימיה תעשייתית, סימולציה, ייצור]
 ---
 <h1>הסוד השחור: מהפך פחם ל-Carbon Black</h1>

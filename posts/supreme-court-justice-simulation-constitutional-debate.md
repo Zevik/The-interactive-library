@@ -1,7 +1,7 @@
 ---
 title: "הכרעה חוקתית: סימולציית שופט עליון"
 english_slug: supreme-court-justice-simulation-constitutional-debate
-category: "ניהול ועסקים / משפטים"
+category: "משפטים"
 tags: [משפט חוקתי, בית המשפט העליון, סימולציה, דיון משפטי, ביקורת שיפוטית]
 ---
 # הכרעה חוקתית: סימולציית שופט עליון

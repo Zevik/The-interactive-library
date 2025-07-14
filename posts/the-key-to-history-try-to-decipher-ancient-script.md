@@ -1,7 +1,7 @@
 ---
 title: "המפתח להיסטוריה: צללו לחידת הפענוח של כתב עתיק"
 english_slug: the-key-to-history-try-to-decipher-ancient-script
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - היסטוריה
   - ארכיאולוגיה

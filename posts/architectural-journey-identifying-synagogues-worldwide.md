@@ -1,7 +1,7 @@
 ---
 title: "מסע אדריכלי: מזהים בתי כנסת בעולם"
 english_slug: architectural-journey-identifying-synagogues-worldwide
-category: "אמנות ועיצוב / אדריכלות"
+category: "אדריכלות"
 tags:
   - בתי כנסת
   - אדריכלות יהודית

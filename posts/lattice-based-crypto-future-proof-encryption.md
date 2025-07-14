@@ -1,7 +1,7 @@
 ---
 title: "קריפטו-סריגים: הצפנה עמידה לעתיד המחשוב הקוונטי"
 english_slug: lattice-based-crypto-future-proof-encryption
-category: "טכנולוגיה / סייבר ואבטחת מידע"
+category: "סייבר ואבטחת מידע"
 tags:
   - קריפטוגרפיה
   - סריגים

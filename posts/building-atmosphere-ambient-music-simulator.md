@@ -1,7 +1,7 @@
 ---
 title: "בונים אווירה: סימולטור מוזיקת אמביינט"
 english_slug: building-atmosphere-ambient-music-simulator
-category: "אמנות ועיצוב / מוזיקה"
+category: "מוזיקה"
 tags:
   - מוזיקה
   - אמביינט

@@ -1,7 +1,7 @@
 ---
 title: "המילים הסמויות שמשפיעות עליך"
 english_slug: hidden-words-that-influence-you
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags:
   - הטרמה
   - פסיכולוגיה קוגניטיבית

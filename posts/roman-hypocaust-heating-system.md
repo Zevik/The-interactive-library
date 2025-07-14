@@ -1,7 +1,7 @@
 ---
 title: "הסוד הלוחש מתחת לרצפה: מערכת החימום הרומית ששינתה את החורף"
 english_slug: roman-hypocaust-heating-system
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - רומא העתיקה
   - היפוקאוסט

@@ -1,7 +1,7 @@
 ---
 title: "סימולציה אינטראקטיבית: אפקט העומד מן הצד (פיזור אחריות)"
 english_slug: bystander-effect-simulation
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags:
   - אפקט העומד מן הצד
   - פיזור אחריות

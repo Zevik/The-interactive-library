@@ -1,7 +1,7 @@
 ---
 title: "כלי הניווט ההיסטוריים: אתגר הזיהוי"
 english_slug: identifying-olds-navigation-tools
-category: "מדעי הרוח / היסטוריה של המדע"
+category: "היסטוריה של המדע"
 tags:
   - אסטרונומיה
   - ניווט

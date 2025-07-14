@@ -1,7 +1,7 @@
 ---
 title: "המילים חושפות: תיק הבלש הלשוני"
 english_slug: the-words-reveal-the-linguistic-detective-game
-category: "מדעי הרוח / בלשנות"
+category: "בלשנות"
 tags:
   - בלשנות משפטית
   - זיהוי פלילי

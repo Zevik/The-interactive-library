@@ -1,7 +1,7 @@
 ---
 title: "השפעת תמריצים: גלו את הפסיכולוגיה מאחורי ההחלטות שלנו"
 english_slug: impact-of-incentives-behavioral-economics-simulator
-category: "מדעי החברה / כלכלה התנהגותית"
+category: "כלכלה התנהגותית"
 tags: [תמריצים, קבלת החלטות, כלכלה התנהגותית, פסיכולוגיה כלכלית, התנהגות צרכנים, קנסות, בונוסים]
 ---
 <div class="intro-section">

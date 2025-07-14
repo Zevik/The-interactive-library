@@ -1,7 +1,7 @@
 ---
 title: "רובוט במבוך: מסע מתוכנת"
 english_slug: robot-in-a-maze-build-and-program
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - רובוטיקה
   - תכנות

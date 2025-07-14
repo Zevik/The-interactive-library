@@ -1,7 +1,7 @@
 ---
 title: "בלשים מוזיקליים: נגלה את כלי הנגינה העתיקים"
 english_slug: musical-detectives-identify-ancient-instruments
-category: "אמנות ועיצוב / מוזיקה"
+category: "מוזיקה"
 tags:
   - כלי נגינה
   - מוזיקה קלאסית

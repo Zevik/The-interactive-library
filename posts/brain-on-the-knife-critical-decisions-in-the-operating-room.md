@@ -1,7 +1,7 @@
 ---
 title: "מוח על סכין: החלטות קריטיות בחדר הניתוח"
 english_slug: brain-on-the-knife-critical-decisions-in-the-operating-room
-category: "מדעי החיים / מדעי המוח"
+category: "מדעי המוח"
 tags: ["ניתוח מוח", "קבלת החלטות", "רפואה", "סימולציה", "ניהול סיכונים"]
 ---
 # מוח על סכין: החלטות קריטיות בחדר הניתוח

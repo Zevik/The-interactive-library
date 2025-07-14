@@ -1,7 +1,7 @@
 ---
 title: "אגמי לבה: הצצה אל לב ההר הגעשי הלוהט"
 english_slug: lava-lakes-glimpse-into-the-volcano-heart
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - הרי געש
   - לבה

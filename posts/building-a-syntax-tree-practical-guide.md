@@ -1,7 +1,7 @@
 ---
 title: "בונים עץ תחבירי: מסע ויזואלי למבנה המשפט"
 english_slug: building-a-syntax-tree-practical-guide
-category: "מדעי הרוח / בלשנות"
+category: "בלשנות"
 tags:
   - בלשנות
   - תחביר

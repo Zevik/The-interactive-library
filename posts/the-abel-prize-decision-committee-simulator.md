@@ -1,7 +1,7 @@
 ---
 title: "החלטת פרס אבל: סימולטור ועדת הפרס"
 english_slug: the-abel-prize-decision-committee-simulator
-category: "מדעי הרוח / פילוסופיה של המדע"
+category: "פילוסופיה של המדע"
 tags:
   - מתמטיקה
   - פרס אבל

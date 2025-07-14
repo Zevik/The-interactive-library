@@ -1,7 +1,7 @@
 ---
 title: "מסע בזמן: איך לטינית הפכה לספרדית, צרפתית ועוד?"
 english_slug: journey-through-time-how-latin-became-romance-languages
-category: "מדעי הרוח / בלשנות"
+category: "בלשנות"
 tags:
   - בלשנות היסטורית
   - שפות רומאניות

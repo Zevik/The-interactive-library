@@ -1,7 +1,7 @@
 ---
 title: "גלו את הקשר: סיגמא או פאי במולקולות בתלת-ממד"
 english_slug: identify-the-bond-sigma-or-pi-in-3d-molecules
-category: "מדעים מדויקים / כימיה"
+category: "כימיה"
 tags:
   - כימיה אורגנית
   - קשר קוולנטי

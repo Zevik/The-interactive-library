@@ -1,7 +1,7 @@
 ---
 title: "מסע הפלא אל תרדמת החורף"
 english_slug: the-wonder-mechanisms-of-winter-hibernation
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags: ["היברנציה", "תרדמת חורף", "פיזיולוגיה", "ביולוגיה", "הישרדות", "אדפטציה"]
 ---
 # מסע הפלא אל תרדמת החורף

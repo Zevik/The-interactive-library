@@ -1,7 +1,7 @@
 ---
 title: "ספינת תסאוס: מתי משהו חדל להיות הוא עצמו?"
 english_slug: ship-of-theseus-when-does-something-stop-being-itself
-category: "מדעי הרוח / פילוסופיה"
+category: "פילוסופיה"
 tags:
   - פילוסופיה
   - מטאפיזיקה

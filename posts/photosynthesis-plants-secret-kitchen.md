@@ -1,7 +1,7 @@
 ---
 title: "פוטוסינתזה: הקסם הירוק שנותן חיים"
 english_slug: photosynthesis-plants-secret-kitchen
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - פוטוסינתזה
   - צמחים

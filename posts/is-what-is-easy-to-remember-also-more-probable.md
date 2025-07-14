@@ -1,7 +1,7 @@
 ---
 title: "האם קלות זיכרון מעידה על סבירות? צללו אל היוריסטיקת הזמינות"
 english_slug: is-what-is-easy-to-remember-also-more-probable
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags:
   - היוריסטיקות
   - הטיות קוגניטיביות

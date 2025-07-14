@@ -1,7 +1,7 @@
 ---
 title: "מנהל יקב ליום אחד: מסע לבניית אימפריית יין"
 english_slug: vineyard-manager-for-a-day-building-a-brand-from-scratch
-category: "ניהול ועסקים / ניהול"
+category: "ניהול"
 tags: ["יקב", "ניהול", "שיווק", "חקלאות", "יין", "סימולציה עסקית", "מותג"]
 ---
 <div class="app-container">

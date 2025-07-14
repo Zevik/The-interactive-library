@@ -1,7 +1,7 @@
 ---
 title: "סימולטור נוירופלסטי: מסע המוח אל שפה חדשה"
 english_slug: neuroplastic-simulator-the-brains-journey-to-a-new-language
-category: "מדעי החיים / מדעי המוח"
+category: "מדעי המוח"
 tags:
   - למידת שפות
   - מדעי המוח

@@ -1,7 +1,7 @@
 ---
 title: "קסם המשי: המסע הקסום מהפקעת לבד יוקרתי"
 english_slug: silk-production-from-cocoon
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags: משי, טוואי המשי, פקעת, טקסטיל, תהליך ייצור, סריקות, ביוטכנולוגיה
 ---
 <!DOCTYPE html>

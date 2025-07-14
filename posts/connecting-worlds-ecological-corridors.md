@@ -1,7 +1,7 @@
 ---
 title: "חיבור עולמות: מסדרונות אקולוגיים"
 english_slug: connecting-worlds-ecological-corridors
-category: "מדעי הסביבה / אקולוגיה וקיימות"
+category: "אקולוגיה"
 tags: [אקולוגיה, שימור טבע, מגוון ביולוגי, בתי גידול, קישוריות נופית]
 ---
 <div class="intro-section">

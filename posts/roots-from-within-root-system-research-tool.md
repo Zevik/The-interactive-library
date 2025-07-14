@@ -1,7 +1,7 @@
 ---
 title: "שורשים מהפנים: מסע ויזואלי לממלכת השורשים הנסתרת"
 english_slug: roots-from-within-root-system-research-tool
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - בוטניקה
   - מערכות שורשים

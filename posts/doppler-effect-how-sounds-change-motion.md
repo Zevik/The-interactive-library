@@ -1,7 +1,7 @@
 ---
 title: "אפקט דופלר: איך צלילים משתנים בתנועה?"
 english_slug: doppler-effect-how-sounds-change-motion
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - אפקט דופלר
   - גלים

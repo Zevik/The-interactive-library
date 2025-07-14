@@ -1,7 +1,7 @@
 ---
 title: "סוד הפרסקו: לצייר על טיח רטוב בזמן הרנסאנס"
 english_slug: the-secret-of-fresco-painting-in-the-renaissance
-category: "אמנות ועיצוב / תולדות האמנות"
+category: "תולדות האמנות"
 tags:
   - פרסקו
   - רנסאנס

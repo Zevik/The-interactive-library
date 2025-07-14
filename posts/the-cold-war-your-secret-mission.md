@@ -1,7 +1,7 @@
 ---
 title: "המלחמה הקרה: סוכן תחת אש"
 english_slug: the-cold-war-your-secret-mission
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - מלחמה קרה
   - ריגול

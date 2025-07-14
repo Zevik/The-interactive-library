@@ -1,7 +1,7 @@
 ---
 title: "בין חיים למוות: החלטות קריטיות בהליכת חלל"
 english_slug: fatal-decisions-in-space-spacewalk-troubleshooting
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags: [קבלת החלטות, פסיכולוגיה קוגניטיבית, חלל, הליכת חלל, לחץ, הישרדות]
 ---
 

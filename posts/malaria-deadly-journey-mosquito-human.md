@@ -1,7 +1,7 @@
 ---
 title: "המלריה: מסע מופלא וקטלני בין יתוש לאדם"
 english_slug: malaria-deadly-journey-mosquito-human
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - מלריה
   - טפיל

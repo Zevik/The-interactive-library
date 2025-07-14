@@ -1,7 +1,7 @@
 ---
 title: "פענוח גרפי שוק ההון: ממוצעים ונרות"
 english_slug: deciphering-stock-market-charts-moving-averages-candlesticks
-category: "מדעי החברה / כלכלה ופיננסים"
+category: "כלכלה"
 tags: [שוק ההון, ניתוח טכני, גרפים פיננסיים, נרות יפניים, ממוצעים נעים]
 ---
 # לפענח את השוק: מדריך אינטראקטיבי לנרות וממוצעים נעים

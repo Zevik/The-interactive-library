@@ -1,7 +1,7 @@
 ---
 title: "קסם ההתססה: המסע המופלא מפולי סויה לטמפה ומיסו"
 english_slug: fermentation-magic-soy-tempeh-miso
-category: "מדעי החיים / מדעי המזון"
+category: "מדעי המזון"
 tags:
   - סויה
   - התססה

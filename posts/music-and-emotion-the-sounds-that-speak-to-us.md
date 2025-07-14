@@ -1,7 +1,7 @@
 ---
 title: "הצלילים שמדברים אליכם: איך מוזיקה מעוררת רגש?"
 english_slug: music-and-emotion-the-sounds-that-speak-to-us
-category: "אמנות ועיצוב / מוזיקה"
+category: "מוזיקה"
 tags: מוזיקה, רגש, סולמות, הרמוניה, פסיכולוגיה של המוזיקה, אינטראקטיבי
 ---
 <div class="interactive-music-experience">

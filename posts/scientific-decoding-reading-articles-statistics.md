@@ -1,7 +1,7 @@
 ---
 title: "פענוח מדעי: קריאת מאמרים וסטטיסטיקות"
 english_slug: scientific-decoding-reading-articles-statistics
-category: "מיומנויות וחינוך / חשיבה ומחקר"
+category: "חשיבה ביקורתית"
 tags:
   - מחקרים מדעיים
   - סטטיסטיקה

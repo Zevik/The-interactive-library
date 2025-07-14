@@ -1,7 +1,7 @@
 ---
 title: "כוח הרוח: מייצרים חשמל משבשבת"
 english_slug: wind-power-generating-electricity-from-a-turbine
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: [אנרגיה מתחדשת, שבשבת רוח, חשמל, אנרגיה קינטית, המרת אנרגטית]
 ---
 # רותמים את הרוח: מסע אל ייצור חשמל משבשבת

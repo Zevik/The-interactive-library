@@ -1,7 +1,7 @@
 ---
 title: "מי יזכה בטיורינג? סימולטור קבלת החלטות בוועדה"
 english_slug: who-will-win-turing-award-committee-decision-simulator
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - פרס טיורינג
   - מדעי המחשב

@@ -1,7 +1,7 @@
 ---
 title: "מפענחים את סודות האקלים: הדמיית קלימוגרפים"
 english_slug: deciphering-climate-secrets-climatograph-game
-category: "מדעי הסביבה / גאוגרפיה"
+category: "גאוגרפיה"
 tags: [אקלים, קלימוגרף, גאוגרפיה פיזית, טמפרטורה, משקעים]
 ---
 <!DOCTYPE html>

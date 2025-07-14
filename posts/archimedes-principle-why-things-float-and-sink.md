@@ -1,7 +1,7 @@
 ---
 title: "סוד הציפה: למה עצמים צפים או שוקעים במים?"
 english_slug: archimedes-principle-why-things-float-and-sink
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: [ארכימדס, ציפה, צפיפות, כוח ציפה, נוזלים]
 ---
 # סוד הציפה: למה עצמים צפים או שוקעים במים?

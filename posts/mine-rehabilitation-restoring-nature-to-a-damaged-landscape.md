@@ -1,7 +1,7 @@
 ---
 title: "שיקום מכרות: הפיכת פצע בנוף לגן פורח"
 english_slug: mine-rehabilitation-restoring-nature-to-a-damaged-landscape
-category: "מדעי הסביבה / כללי"
+category: "כללי"
 tags: [שיקום אקולוגי, כריה, סביבה, קיימות, מערכות אקולוגיות, גאולוגיה]
 ---
 # שיקום מכרות: הפיכת פצע בנוף לגן פורח

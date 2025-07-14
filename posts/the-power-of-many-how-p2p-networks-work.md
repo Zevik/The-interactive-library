@@ -1,7 +1,7 @@
 ---
 title: "כוחם של רבים: איך רשתות P2P מזינות זו את זו"
 english_slug: the-power-of-many-how-p2p-networks-work
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - רשתות P2P
   - עמית לעמית

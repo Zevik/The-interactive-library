@@ -1,7 +1,7 @@
 ---
 title: "סוד הפלדה הנעלם: מסע אל ליבת חרב דמשקאית"
 english_slug: secret-of-lost-steel-journey-into-damascus-sword
-category: "טכנולוגיה / הנדסת חומרים"
+category: "הנדסת חומרים"
 tags:
   - מטלורגיה
   - פלדה דמשקאית

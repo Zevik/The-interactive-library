@@ -1,7 +1,7 @@
 ---
 title: "המסע הויזואלי של בינה מלאכותית: מפיקסלים להבנה עמוקה"
 english_slug: the-image-journey-how-ai-understands-what-it-sees
-category: "טכנולוגיה / בינה מלאכותית"
+category: "בינה מלאכותית"
 tags:
   - בינה מלאכותית
   - למידה עמוקה

@@ -1,7 +1,7 @@
 ---
 title: "אמן החרבות: אתגר זיהוי כלי נשק היסטוריים"
 english_slug: identify-the-sword-historical-sword-quiz
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
     - חרבות
     - רומא העתיקה

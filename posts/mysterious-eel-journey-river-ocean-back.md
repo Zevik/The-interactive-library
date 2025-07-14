@@ -1,7 +1,7 @@
 ---
 title: "מסע הצלופח המסתורי: מהנהר לאוקיינוס ובחזרה"
 english_slug: "mysterious-eel-journey-river-ocean-back"
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
 - צלופח
 - נדידה

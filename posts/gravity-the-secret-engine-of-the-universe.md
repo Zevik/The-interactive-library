@@ -1,7 +1,7 @@
 ---
 title: "כוח הכבידה: המנוע הסודי של היקום"
 english_slug: gravity-the-secret-engine-of-the-universe
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: כבידה, פיזיקה, ניוטון, משיכה, חלל, יקום
 ---
 

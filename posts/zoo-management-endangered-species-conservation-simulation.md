@@ -1,7 +1,7 @@
 ---
 title: "גן חיות: הצלת מינים בסכנת הכחדה - סימולציה"
 english_slug: zoo-management-endangered-species-conservation-simulation
-category: "מדעי הסביבה / כללי"
+category: "כללי"
 tags: [שמירת טבע, גן חיות, מינים בסכנת הכחדה, אקולוגיה, ניהול משאבים, סימולציה]
 ---
 # מנהלים גן חיות: הצלת מינים בסכנת הכחדה

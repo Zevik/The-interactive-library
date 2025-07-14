@@ -1,7 +1,7 @@
 ---
 title: "מתכננים עיר: האם תצליחו לאזן בין הכל?"
 english_slug: planning-a-city-balancing-act
-category: "מדעי החברה / תכנון עירוני"
+category: "תכנון עירוני"
 tags:
   - תכנון עירוני
   - איזון עירוני

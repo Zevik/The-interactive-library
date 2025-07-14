@@ -1,7 +1,7 @@
 ---
 title: "ועדת סל התרופות: המשימה הקריטית"
 english_slug: the-budget-challenge-who-gets-the-drug
-category: "מדעי החברה / כלכלה התנהגותית"
+category: "כלכלה התנהגותית"
 tags:
   - כלכלה
   - בריאות הציבור

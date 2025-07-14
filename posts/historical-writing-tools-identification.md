@@ -1,7 +1,7 @@
 ---
 title: "מסע בזמן: זיהוי כלי כתיבה היסטוריים"
 english_slug: historical-writing-tools-identification
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - כלי כתיבה
   - היסטוריה

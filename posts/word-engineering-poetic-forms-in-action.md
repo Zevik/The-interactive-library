@@ -1,7 +1,7 @@
 ---
 title: "הנדסת מילים: הסימולטור האולטימטיבי למבנים שיריים"
 english_slug: word-engineering-poetic-forms-in-action
-category: "מדעי הרוח / ספרות וכתיבה"
+category: "ספרות"
 tags:
   - שירה
   - מבנים שיריים

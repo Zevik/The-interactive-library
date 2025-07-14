@@ -1,7 +1,7 @@
 ---
 title: "סדנת יצירה שירית: פיצוח מבנה הבלדה מול האודה"
 english_slug: interactive-poetry-workshop-ballad-vs-ode
-category: "מדעי הרוח / ספרות וכתיבה"
+category: "ספרות"
 tags:
   - שירה
   - בלדה

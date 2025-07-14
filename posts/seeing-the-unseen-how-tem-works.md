@@ -1,7 +1,7 @@
 ---
 title: "לראות את הבלתי נראה: כך עובד מיקרוסקופ אלקטרונים חודר (TEM)"
 english_slug: seeing-the-unseen-how-tem-works
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - מיקרוסקופ אלקטרונים
   - TEM

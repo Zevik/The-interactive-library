@@ -1,7 +1,7 @@
 ---
 title: "למה אף אחד לא עוזר במצוקה? סימולציה של אפקט העומד מן הצד"
 english_slug: why-nobody-helps-bystander-effect-simulation
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags:
   - אפקט העומד מן הצד
   - פיזור אחריות

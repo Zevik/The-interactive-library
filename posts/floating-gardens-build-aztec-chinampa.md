@@ -1,7 +1,7 @@
 ---
 title: "גנים צפים: בנה צ'ינאמפה אצטקית"
 english_slug: floating-gardens-build-aztec-chinampa
-category: "טכנולוגיה / היסטוריה של הטכנולוגיה"
+category: "היסטוריה של הטכנולוגיה"
 tags:
   - אצטקים
   - צ'ינאמפס

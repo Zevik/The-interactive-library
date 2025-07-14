@@ -1,7 +1,7 @@
 ---
 title: "רובוט שש-רגלי: אמנות התנועה המדויקת בשטח הפרוע"
 english_slug: six-legged-robot-art-of-complex-terrain-navigation
-category: "טכנולוגיה / רובוטיקה"
+category: "רובוטיקה"
 tags:
   - רובוטיקה
   - הנדסה

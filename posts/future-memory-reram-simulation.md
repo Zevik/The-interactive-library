@@ -1,7 +1,7 @@
 ---
 title: "זיכרון העתיד: הדמיית פעולת ReRAM"
 english_slug: future-memory-reram-simulation
-category: "טכנולוגיה / הנדסת חשמל"
+category: "הנדסת חשמל"
 tags: [ReRAM, זיכרון לא נדיף, התנגדות, סימולציה, התקני זיכרון]
 ---
 # זיכרון העתיד: הדמיית פעולת ReRAM

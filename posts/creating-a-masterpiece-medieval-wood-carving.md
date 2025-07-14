@@ -1,7 +1,7 @@
 ---
 title: "פסלים מספרים: מסע אינטראקטיבי לגילוף עץ ימי-ביניימי"
 english_slug: creating-a-masterpiece-medieval-wood-carving
-category: "אמנות ועיצוב / תולדות האמנות"
+category: "תולדות האמנות"
 tags:
   - גילוף בעץ
   - ימי הביניים

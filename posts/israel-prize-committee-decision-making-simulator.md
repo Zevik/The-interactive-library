@@ -1,7 +1,7 @@
 ---
 title: "ועדת פרס ישראל: סימולטור קבלת החלטות"
 english_slug: israel-prize-committee-decision-making-simulator
-category: "מדעי החברה / כללי"
+category: "כללי"
 tags:
   - פרס ישראל
   - קבלת החלטות

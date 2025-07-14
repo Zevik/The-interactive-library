@@ -1,7 +1,7 @@
 ---
 title: "אימון נהג AI: כביש האתגרים הדיגיטלי"
 english_slug: training-ai-driver-the-virtual-road-challenge
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags: בינה מלאכותית, למידת מכונה, נהיגה אוטונומית, אימון מודלים, נתונים
 ---
 # אימון נהג AI: כביש האתגרים הדיגיטלי

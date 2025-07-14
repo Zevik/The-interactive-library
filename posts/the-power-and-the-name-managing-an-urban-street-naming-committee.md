@@ -1,7 +1,7 @@
 ---
 title: "הכוח והשם: פלונטר בוועדת שמות רחובות עירונית"
 english_slug: the-power-and-the-name-managing-an-urban-street-naming-committee
-category: "מדעי החברה / כלכלה התנהגותית"
+category: "כלכלה התנהגותית"
 tags:
   - קבלת החלטות
   - תכנון עירוני

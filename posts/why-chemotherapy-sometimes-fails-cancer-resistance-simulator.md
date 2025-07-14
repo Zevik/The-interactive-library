@@ -1,7 +1,7 @@
 ---
 title: "מדוע הכימותרפיה מפסיקה לעבוד? סימולטור עמידות סרטנית"
 english_slug: why-chemotherapy-sometimes-fails-cancer-resistance-simulator
-category: "מדעי החיים / רפואה"
+category: "רפואה"
 tags:
   - סרטן
   - כימותרפיה

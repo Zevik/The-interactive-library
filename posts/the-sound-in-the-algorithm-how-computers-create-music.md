@@ -1,7 +1,7 @@
 ---
 title: "הקומפוזיטור הדיגיטלי: גלו את הקסם שבמוזיקה גנרטיבית"
 english_slug: the-sound-in-the-algorithm-how-computers-create-music
-category: "אמנות ועיצוב / מוזיקה"
+category: "מוזיקה"
 tags:
   - מוזיקה גנרטיבית
   - אלגוריתמים

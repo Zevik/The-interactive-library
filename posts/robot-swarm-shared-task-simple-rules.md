@@ -1,7 +1,7 @@
 ---
 title: "ריקוד הרובוטים: אינטליגנציה קולקטיבית בחוקים פשוטים"
 english_slug: robot-swarm-shared-task-simple-rules
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - רובוטיקה
   - נחיל רובוטים

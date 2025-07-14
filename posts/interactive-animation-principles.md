@@ -1,7 +1,7 @@
 ---
 title: "עקרונות האנימציה הקסומים: מסע אינטראקטיבי"
 english_slug: interactive-animation-principles
-category: "אמנות ועיצוב / אנימציה"
+category: "אנימציה"
 tags:
   - אנימציה
   - דיסני

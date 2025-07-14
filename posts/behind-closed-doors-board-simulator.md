@@ -1,7 +1,7 @@
 ---
 title: "מאחורי דלתות סגורות: סימולטור דירקטוריון"
 english_slug: behind-closed-doors-board-simulator
-category: "ניהול ועסקים / ניהול"
+category: "ניהול"
 tags:
   - דירקטוריון
   - קבלת החלטות

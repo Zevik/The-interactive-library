@@ -1,7 +1,7 @@
 ---
 title: "מסע ויזואלי אל לב תורת הקבוצות: דיאגרמות ון מתעוררות לחיים"
 english_slug: visual-journey-into-set-theory-venn-diagrams-come-alive
-category: "מדעים מדויקים / מתמטיקה"
+category: "מתמטיקה"
 tags:
   - תורת הקבוצות
   - דיאגרמות ון

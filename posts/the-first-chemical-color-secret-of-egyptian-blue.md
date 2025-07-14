@@ -1,7 +1,7 @@
 ---
 title: "הצבע הקסום של הפרעונים: מסע אל הכחול המצרי"
 english_slug: the-first-chemical-color-secret-of-egyptian-blue
-category: "מדעים מדויקים / כימיה"
+category: "כימיה"
 tags: [כימיה, פיגמנטים, מצרים העתיקה, טכנולוגיה עתיקה, סינתזה כימית, היסטוריה של המדע]
 ---
 <div class="intro-text">

@@ -1,7 +1,7 @@
 ---
 title: "האם תזהו אדריכלות פוסט-מודרנית?"
 english_slug: can-you-identify-postmodern-architecture
-category: "אמנות ועיצוב / אדריכלות"
+category: "אדריכלות"
 tags:
   - אדריכלות
   - פוסט-מודרניזם

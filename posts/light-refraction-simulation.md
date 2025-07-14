@@ -1,7 +1,7 @@
 ---
 title: "המסע המדהים של האור: הדמיית שבירה"
 english_slug: light-refraction-simulation
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: ['אופטיקה', 'שבירה', 'חוק סנל', 'אור']
 ---
 

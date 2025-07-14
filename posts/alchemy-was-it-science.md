@@ -1,7 +1,7 @@
 ---
 title: "אלכימיה: האם זה היה מדע?"
 english_slug: alchemy-was-it-science
-category: "מדעי הרוח / היסטוריה של המדע"
+category: "היסטוריה של המדע"
 tags:
   - אלכימיה
   - היסטוריה

@@ -1,7 +1,7 @@
 ---
 title: "חידת הדלתות של מונטי הול: התנסות אינטראקטיבית"
 english_slug: monty-hall-doors-riddle
-category: "מדעים מדויקים / מתמטיקה"
+category: "מתמטיקה"
 tags:
   - הסתברות
   - מתמטיקה

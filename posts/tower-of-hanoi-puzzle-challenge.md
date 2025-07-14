@@ -1,7 +1,7 @@
 ---
 title: "אתגר מגדלי האנוי: מסע אל עולם הלוגיקה והאלגוריתמים"
 english_slug: tower-of-hanoi-puzzle-challenge
-category: "מדעים מדויקים / מתמטיקה"
+category: "מתמטיקה"
 tags:
   - פאזל
   - מגדלי האנוי

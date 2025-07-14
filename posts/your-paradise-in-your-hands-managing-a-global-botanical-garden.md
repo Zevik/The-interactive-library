@@ -1,7 +1,7 @@
 ---
 title: "גן עדן בוטני: מסע אל לב הטבע"
 english_slug: your-paradise-in-your-hands-managing-a-global-botanical-garden
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - גן בוטני
   - שימור צמחים

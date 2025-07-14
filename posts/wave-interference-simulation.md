@@ -1,7 +1,7 @@
 ---
 title: "ריקוד הגלים: הדמיית התאבכות"
 english_slug: wave-interference-simulation
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - גלים
   - התאבכות

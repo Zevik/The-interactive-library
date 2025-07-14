@@ -1,7 +1,7 @@
 ---
 title: "קסם הגלים: התאבכות משני מקורות"
 english_slug: wave-interference-two-sources-enhanced
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - גלים
   - התאבכות

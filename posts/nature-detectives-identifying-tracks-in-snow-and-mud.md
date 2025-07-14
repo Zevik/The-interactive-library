@@ -1,7 +1,7 @@
 ---
 title: "בלשי טבע: זיהוי עקבות בשלג ובבוץ"
 english_slug: nature-detectives-identifying-tracks-in-snow-and-mud
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - עקבות בעלי חיים
   - זיהוי עקבות

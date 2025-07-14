@@ -1,7 +1,7 @@
 ---
 title: "מסע קסום: לידתה של בירה מגרעין ועד בקבוק"
 english_slug: beer-journey-from-grain-to-bottle
-category: "מדע המזון"
+category: "מדעי המזון"
 tags:
   - בירה
   - בישול בירה

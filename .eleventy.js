@@ -20,6 +20,10 @@ module.exports = function(eleventyConfig) {
     const map = new Map();
     arr.forEach(item => {
       const k = item.data[key];
+      // Skip items without the specified property (e.g., no category)
+      if (k === undefined || k === null || k === '') {
+        return;
+      }
       const collection = map.get(k);
       if (!collection) {
         map.set(k, [item]);
@@ -31,6 +35,11 @@ module.exports = function(eleventyConfig) {
     return Array.from(map, ([key, items]) => ({ key, items }));
   });
   // ----> END OF NEW CODE <----
+
+  // Add collections
+  eleventyConfig.addCollection("post", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("posts/*.md");
+  });
 
   return {
     dir: {

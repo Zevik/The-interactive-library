@@ -1,80 +1,299 @@
-/* css/style.css */
+/* Classic Modern Design - Clean & Simple */
 
-:root {
-  --primary-color: #005a9e;
-  --light-gray: #f4f4f4;
-  --dark-gray: #333;
-  --text-color: #222;
-  --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+/* Reset and Base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-  font-family: var(--font-family);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
-  margin: 0;
-  background-color: #fff;
-  color: var(--text-color);
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+  color: #333;
+  background-color: #f8f9fa;
   direction: rtl;
 }
 
-.site-header {
-  background-color: var(--primary-color);
-  color: white;
-  padding: 1rem 2rem;
+/* Main Container */
+.library-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  background: white;
+  min-height: 100vh;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+/* Header */
+.library-header {
   text-align: center;
+  padding: 40px 0;
+  border-bottom: 2px solid #e9ecef;
+  margin-bottom: 30px;
+}
+
+.library-header h1 {
+  font-size: 2.5rem;
+  font-weight: 300;
+  color: #2c3e50;
+  margin-bottom: 10px;
+}
+
+.library-header p {
+  font-size: 1.1rem;
+  color: #6c757d;
+  font-weight: 400;
+}
+
+/* Search */
+.search-wrapper {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.search-field {
+  width: 100%;
+  max-width: 400px;
+  padding: 12px 20px;
+  font-size: 16px;
+  border: 2px solid #dee2e6;
+  border-radius: 6px;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
+
+.search-field:focus {
+  border-color: #007bff;
+}
+
+/* Categories Container */
+.categories-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Category Box */
+.category-box {
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  background: white;
+  overflow: hidden;
+  transition: box-shadow 0.3s ease;
+}
+
+.category-box:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Category Header */
+.category-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  background: #f8f9fa;
+  border-bottom: 1px solid #dee2e6;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.category-header:hover {
+  background: #e9ecef;
+}
+
+.category-header h2 {
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: #2c3e50;
+  margin: 0;
+  flex-grow: 1;
+}
+
+.item-count {
+  font-size: 0.9rem;
+  color: #6c757d;
+  background: #e9ecef;
+  padding: 4px 8px;
+  border-radius: 12px;
+  margin-left: 10px;
+}
+
+.toggle-icon {
+  font-size: 1rem;
+  color: #6c757d;
+  margin-left: 10px;
+  transition: transform 0.3s ease;
+}
+
+/* Category Content */
+.category-content {
+  padding: 10px;
+  background: white;
+}
+
+/* Post Items */
+.post-item {
+  margin-bottom: 8px;
+}
+
+.post-item:last-child {
+  margin-bottom: 0;
+}
+
+.post-item a {
+  display: block;
+  padding: 12px 15px;
+  text-decoration: none;
+  color: #495057;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  background: #fff;
+}
+
+.post-item a:hover {
+  background: #f8f9fa;
+  border-color: #007bff;
+  color: #007bff;
+  transform: translateX(-2px);
+}
+
+/* Site Header */
+.site-header {
+  background: #2c3e50;
+  color: white;
+  padding: 15px 0;
+  text-align: center;
+  margin-bottom: 0;
 }
 
 .site-header a {
   color: white;
   text-decoration: none;
-  font-size: 1.8rem;
-  font-weight: bold;
+  font-size: 1.2rem;
+  font-weight: 500;
 }
 
-main {
-  flex: 1; /* This makes the main content grow to fill available space */
-  max-width: 900px;
-  margin: 2rem auto;
-  padding: 0 1.5rem;
-  width: 100%;
-  box-sizing: border-box;
-}
-
-/* Styles for the homepage list */
-main ul {
-    list-style: none;
-    padding: 0;
-}
-main li a {
-    display: block;
-    padding: 1rem;
-    background-color: var(--light-gray);
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    margin-bottom: 0.5rem;
-    text-decoration: none;
-    color: var(--primary-color);
-    font-weight: 500;
-    transition: background-color 0.2s, transform 0.2s;
-}
-main li a:hover {
-    background-color: #e9e9e9;
-    transform: translateY(-2px);
-}
-
-
+/* Site Footer */
 .site-footer {
-  background-color: var(--dark-gray);
-  color: #ccc;
+  background: #2c3e50;
+  color: white;
   text-align: center;
-  padding: 1.5rem;
-  margin-top: 2rem;
+  padding: 20px 0;
+  margin-top: 40px;
 }
 
-h1, h2, h3 {
-  line-height: 1.2;
-  color: var(--dark-gray);
+/* Legacy Support for individual posts */
+main {
+  flex: 1;
+}
+
+main ul {
+  list-style: none;
+  padding: 0;
+}
+
+main li {
+  margin-bottom: 10px;
+}
+
+main li a {
+  display: block;
+  padding: 15px;
+  background: white;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #495057;
+  transition: all 0.3s ease;
+}
+
+main li a:hover {
+  background: #f8f9fa;
+  border-color: #007bff;
+  color: #007bff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+  color: #2c3e50;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .library-container {
+    padding: 15px;
+    margin: 0;
+    box-shadow: none;
+  }
+  
+  .library-header {
+    padding: 30px 0;
+  }
+  
+  .library-header h1 {
+    font-size: 2rem;
+  }
+  
+  .category-header {
+    padding: 12px 15px;
+  }
+  
+  .category-header h2 {
+    font-size: 1.1rem;
+  }
+  
+  .search-field {
+    font-size: 16px; /* Prevents zoom on iOS */
+  }
+}
+
+@media (max-width: 480px) {
+  .library-container {
+    padding: 10px;
+  }
+  
+  .library-header h1 {
+    font-size: 1.8rem;
+  }
+  
+  .library-header p {
+    font-size: 1rem;
+  }
+  
+  .category-header {
+    padding: 10px 12px;
+  }
+  
+  .post-item a {
+    padding: 10px 12px;
+    font-size: 0.95rem;
+  }
+}
+
+/* Print Styles */
+@media print {
+  .search-wrapper,
+  .toggle-icon {
+    display: none;
+  }
+  
+  .category-content {
+    display: block !important;
+  }
+  
+  .category-box {
+    break-inside: avoid;
+    margin-bottom: 20px;
+  }
+  
+  .library-container {
+    box-shadow: none;
+    padding: 0;
+  }
 }

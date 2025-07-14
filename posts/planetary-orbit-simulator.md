@@ -1,7 +1,7 @@
 ---
 title: "הרפתקאות מסלולים פלנטריים"
 english_slug: planetary-orbit-simulator
-category: "מדעים מדויקים / אסטרונומיה"
+category: "אסטרונומיה"
 tags:
   - פיזיקה
   - אסטרונומיה

@@ -1,7 +1,7 @@
 ---
 title: "סוד היציבות: איך בונים גשר תלוי מודרני?"
 english_slug: secret-of-stability-how-to-build-modern-suspension-bridge
-category: "טכנולוגיה / הנדסה"
+category: "הנדסה"
 tags: ["גשרים", "הנדסה", "פיזיקה", "קונסטרוקציה", "כוחות"]
 ---
 # סוד היציבות: איך בונים גשר תלוי מודרני?

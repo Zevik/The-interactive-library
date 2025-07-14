@@ -1,7 +1,7 @@
 ---
 title: "השיר הגדול: הסימפוניה התת-ימית של לווייתנים למרחקים עצומים"
 english_slug: whale-long-distance-communication-ocean-acoustics
-category: "מדעי החיים / ביולוגיה ימית"
+category: "ביולוגיה ימית"
 tags:
   - לווייתנים
   - תקשורת בעלי חיים

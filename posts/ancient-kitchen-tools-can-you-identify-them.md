@@ -1,7 +1,7 @@
 ---
 title: "מסע בזמן למטבח של פעם: חידון כלי מטבח עתיקים"
 english_slug: ancient-kitchen-tools-can-you-identify-them
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - היסטוריה
   - חפצי יום יום

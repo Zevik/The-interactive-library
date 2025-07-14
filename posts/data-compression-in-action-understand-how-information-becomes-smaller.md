@@ -1,7 +1,7 @@
 ---
 title: "קסם הדחיסה: להבין איך קבצים מתכווצים"
 english_slug: data-compression-in-action-understand-how-information-becomes-smaller
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags: דחיסת נתונים, אלגוריתמים, קידוד, סימולציה, מדעי המחשב, מדמ"ח, טכנולוגיה, קבצים, אחסון, תקשורת
 ---
 # קסם הדחיסה: איך מידע הופך לקטן יותר

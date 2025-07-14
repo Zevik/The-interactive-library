@@ -1,7 +1,7 @@
 ---
 title: "הכור הגרעיני העתיק של אוקלו: פעימות הלב של כדור הארץ"
 english_slug: the-ancient-nuclear-reactor-of-oklo-how-it-happened
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - פיזיקה גרעינית
   - כור גרעיני

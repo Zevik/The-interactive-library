@@ -1,7 +1,7 @@
 ---
 title: "אימות זהות מבוזר: מסע אישור (Verifiable Credential)"
 english_slug: decentralized-identity-verification-how-it-works
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags: זהות מבוזרת, DID, Verifiable Credentials, בלוקצ'יין, קריפטוגרפיה, Web3, SSI
 ---
 # אימות זהות מבוזר: מסע אישור (Verifiable Credential)

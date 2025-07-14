@@ -1,7 +1,7 @@
 ---
 title: "משימה במיקרוביום: תכנון מסע לגילוי"
 english_slug: microbiome-mission-research-planning
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags: ["מיקרוביום", "מחקר מדעי", "ביולוגיה", "בריאות", "תכנון ניסוי"]
 ---
 <div class="mission-container">

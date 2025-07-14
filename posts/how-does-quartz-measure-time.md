@@ -1,7 +1,7 @@
 ---
 title: "הקסם של שעון הקוורץ: איך זמן נמדד בגביש?"
 english_slug: how-does-quartz-measure-time
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - קוורץ
   - שעון

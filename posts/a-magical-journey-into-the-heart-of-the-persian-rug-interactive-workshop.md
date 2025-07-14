@@ -1,7 +1,7 @@
 ---
 title: "מסע קסום אל לב השטיח הפרסי: סדנת אנימציה אינטראקטיבית"
 english_slug: a-magical-journey-into-the-heart-of-the-persian-rug-interactive-workshop
-category: "אמנות ועיצוב / כללי"
+category: "כללי"
 tags:
   - שטיח פרסי
   - אריגה מסורתית

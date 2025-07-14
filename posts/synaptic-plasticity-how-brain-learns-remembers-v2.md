@@ -1,7 +1,7 @@
 ---
 title: "הפלסטיות הסינפטית: מסע אל תוך הזיכרון והלמידה במוח"
 english_slug: synaptic-plasticity-how-brain-learns-remembers-v2
-category: "מדעי החיים / מדעי המוח"
+category: "מדעי המוח"
 tags: [סינפסה, פלסטיות, למידה, זיכרון, נוירונים, נוירוביולוגיה]
 ---
 

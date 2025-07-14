@@ -1,7 +1,7 @@
 ---
 title: "אימפריה ימית בשליטתך: מסע הסחר הגדול של ה-VOC"
 english_slug: a-maritime-empire-under-your-control-voc-strategy-game
-category: "היסטוריה וכלכלה"
+category: "היסטוריה כלכלית"
 tags:
   - VOC
   - חברת הודו המזרחית ההולנדית

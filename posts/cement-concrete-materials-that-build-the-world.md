@@ -1,7 +1,7 @@
 ---
 title: "מלט ובטון: חומרי הבנייה המופלאים"
 english_slug: cement-concrete-materials-that-build-the-world
-category: "טכנולוגיה / הנדסה"
+category: "הנדסה"
 tags:
   - מלט
   - בטון

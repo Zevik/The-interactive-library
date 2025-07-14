@@ -1,7 +1,7 @@
 ---
 title: "המסע המופלא של המגמה: להפוך לנוצצים - איך נוצרים מינרלים?"
 english_slug: mineral-crystallization-from-cooling-magma
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - מינרלים
   - מגמה

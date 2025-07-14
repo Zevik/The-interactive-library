@@ -1,7 +1,7 @@
 ---
 title: "סודות הנייר היפני: מסע קסום אל אמנות הוואשי"
 english_slug: secrets-of-japanese-paper-journey-to-washi-art
-category: "אמנות ועיצוב / מלאכות יד"
+category: "מלאכות יד"
 tags:
   - ואשי
   - נייר יפני

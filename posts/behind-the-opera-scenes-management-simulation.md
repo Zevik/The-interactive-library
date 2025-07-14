@@ -1,7 +1,7 @@
 ---
 title: "מאחורי הקלעים של האופרה: סימולציית ניהול"
 english_slug: behind-the-opera-scenes-management-simulation
-category: "ניהול ועסקים / ניהול"
+category: "ניהול"
 tags:
   - אומנות
   - ניהול תרבות

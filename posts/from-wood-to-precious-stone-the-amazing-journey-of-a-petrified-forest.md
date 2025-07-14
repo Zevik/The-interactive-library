@@ -1,7 +1,7 @@
 ---
 title: "מעץ לאבן יקרה: המסע המופלא של יער מאובן"
 english_slug: from-wood-to-precious-stone-the-amazing-journey-of-a-petrified-forest
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - יער מאובן
   - פטריפיקציה

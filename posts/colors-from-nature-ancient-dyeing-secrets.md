@@ -1,7 +1,7 @@
 ---
 title: "צבעים מהטבע: סודות הצביעה הקדומה"
 english_slug: colors-from-nature-ancient-dyeing-secrets
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - צבעים טבעיים
   - צביעה

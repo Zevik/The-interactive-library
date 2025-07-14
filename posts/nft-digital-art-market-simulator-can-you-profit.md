@@ -1,7 +1,7 @@
 ---
 title: "סימולטור שוק האמנות הדיגיטלי: האם תהפכו למיליונרי NFT או תפסידו הכל?"
 english_slug: nft-digital-art-market-simulator-can-you-profit
-category: "מדעי החברה / כלכלה התנהגותית"
+category: "כלכלה התנהגותית"
 tags:
   - NFT
   - שוק האמנות

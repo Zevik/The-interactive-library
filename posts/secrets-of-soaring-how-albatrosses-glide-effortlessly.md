@@ -1,7 +1,7 @@
 ---
 title: "סודות הדאייה: ריחוף אלבטרוסים ללא מאמץ"
 english_slug: secrets-of-soaring-how-albatrosses-glide-effortlessly
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - דאייה
   - אלבטרוס

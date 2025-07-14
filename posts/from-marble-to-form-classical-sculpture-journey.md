@@ -1,7 +1,7 @@
 ---
 title: "משיש לאל: מסע הפיסול הפיגורטיבי הקלאסי"
 english_slug: from-marble-to-form-classical-sculpture-journey
-category: "אמנות ועיצוב / אמנות חזותית"
+category: "אמנות חזותית"
 tags:
   - פיסול
   - שיש

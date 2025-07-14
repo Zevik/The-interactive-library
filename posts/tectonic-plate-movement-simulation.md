@@ -1,7 +1,7 @@
 ---
 title: "הדמיית תנועת לוחות טקטוניים"
 english_slug: tectonic-plate-movement-simulation
-category: "מדעי הסביבה / גיאולוגיה"
+category: "גיאולוגיה"
 tags:
   - גיאולוגיה
   - טקטוניקה

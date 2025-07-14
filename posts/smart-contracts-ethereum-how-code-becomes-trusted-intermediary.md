@@ -1,7 +1,7 @@
 ---
 title: "חוזים חכמים באת'ריום: הקסם שמאחורי הקוד האוטומטי"
 english_slug: smart-contracts-ethereum-how-code-becomes-trusted-intermediary
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - את'ריום
   - חוזים חכמים

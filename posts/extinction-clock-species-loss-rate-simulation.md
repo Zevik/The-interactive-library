@@ -1,7 +1,7 @@
 ---
 title: "שעון ההכחדה: הדמיית קצב אובדן מינים"
 english_slug: extinction-clock-species-loss-rate-simulation
-category: "מדעי הסביבה / אקולוגיה וקיימות"
+category: "אקולוגיה"
 tags:
   - הכחדה
   - מינים בסכנה

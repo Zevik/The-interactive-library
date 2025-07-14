@@ -1,7 +1,7 @@
 ---
 title: "לאמן AI לכתוב קוד: סימולטור למידה אינטראקטיבי"
 english_slug: train-ai-write-code-learning-simulator
-category: "טכנולוגיה / בינה מלאכותית"
+category: "בינה מלאכותית"
 tags:
   - בינה מלאכותית
   - למידת מכונה

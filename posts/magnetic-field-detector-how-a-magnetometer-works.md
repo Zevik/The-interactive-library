@@ -1,7 +1,7 @@
 ---
 title: "מגלה שדות: מסע אל הבלתי נראה"
 english_slug: magnetic-field-detector-how-a-magnetometer-works
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: שדה מגנטי, מגנטומטר, מדידה, ניווט, חיישנים, פיזיקה אינטראקטיבית, סימולציה
 ---
 <h1>מגלה שדות: מסע אל הבלתי נראה</h1>

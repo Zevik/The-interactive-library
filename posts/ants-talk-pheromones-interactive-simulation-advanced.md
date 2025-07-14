@@ -1,7 +1,7 @@
 ---
 title: "נמלים מדברות פרומונים: סימולציה אינטראקטיבית מתקדמת"
 english_slug: ants-talk-pheromones-interactive-simulation-advanced
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - נמלים
   - פרומונים

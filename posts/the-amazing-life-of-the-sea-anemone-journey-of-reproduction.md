@@ -1,7 +1,7 @@
 ---
 title: "החיים המופלאים של שושנת הים: מסע הרבייה הסודי"
 english_slug: the-amazing-life-of-the-sea-anemone-journey-of-reproduction
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - שושנת ים
   - מחזור חיים

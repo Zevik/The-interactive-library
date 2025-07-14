@@ -1,7 +1,7 @@
 ---
 title: "הסודות הכמוסים של הגבינה: מסע אינטראקטיבי אל ליבת רוקפור וברי"
 english_slug: journey-to-the-heart-of-cheese-roquefort-brie
-category: "מדעי החיים / מדעי המזון"
+category: "מדעי המזון"
 tags: ["גבינה", "רוקפור", "ברי", "מיקרוביולוגיה", "מדעי המזון", "סימולציה", "אינטראקטיבי"]
 ---
 <div class="container">

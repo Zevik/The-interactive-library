@@ -1,7 +1,7 @@
 ---
 title: "קרב האור והאנרגיה: נורות ליבון מול LED"
 english_slug: incandescent-vs-led-light-efficiency-heat-spectrum
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - חשמל
   - אנרגיה

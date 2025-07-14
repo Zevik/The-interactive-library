@@ -1,7 +1,7 @@
 ---
 title: "צלול לעולם המחול: ריקוד מודרני או עכשווי?"
 english_slug: game-identification-modern-or-contemporary-dance
-category: "אמנות ועיצוב / אמנויות הבמה"
+category: "אמנויות הבמה"
 tags:
   - מחול
   - ריקוד מודרני

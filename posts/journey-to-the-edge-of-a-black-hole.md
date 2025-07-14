@@ -1,7 +1,7 @@
 ---
 title: "מסע קוסמי אל לוע החור השחור"
 english_slug: journey-to-the-edge-of-a-black-hole
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - חורים שחורים
   - כבידה

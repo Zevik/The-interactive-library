@@ -1,7 +1,7 @@
 ---
 title: "קרב ההישרדות של הנגיף: סימולטור עמידות לתרופות"
 english_slug: virus-survival-battle-drug-resistance-simulator
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
 - ביולוגיה
 - נגיפים

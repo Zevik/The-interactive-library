@@ -1,7 +1,7 @@
 ---
 title: "היערות התת-ימיים המופלאים: צלילה ליער קלפ"
 english_slug: secret-underwater-forests-journey-into-a-kelp-forest
-category: "מדעי הסביבה / אקולוגיה וקיימות"
+category: "אקולוגיה"
 tags: ["יער קלפ", "מערכת אקולוגית", "חיים ימיים", "מגוון ביולוגי", "אוקיינוס"]
 ---
 <style>

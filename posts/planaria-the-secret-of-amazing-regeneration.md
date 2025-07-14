@@ -1,7 +1,7 @@
 ---
 title: "פלאנריה: סוד ההתחדשות המדהימה"
 english_slug: planaria-the-secret-of-amazing-regeneration
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - פלאנריה
   - תולעים שטוחות

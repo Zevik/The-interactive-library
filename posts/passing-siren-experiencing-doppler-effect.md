@@ -1,7 +1,7 @@
 ---
 title: "צפירה חולפת: חווים את אפקט דופלר"
 english_slug: passing-siren-experiencing-doppler-effect
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: [פיזיקה, גלים, אפקט דופלר, תדר, צליל, סימולציה]
 ---
 # צפירה חולפת: חווים את אפקט דופלר

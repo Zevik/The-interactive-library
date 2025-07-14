@@ -1,7 +1,7 @@
 ---
 title: "בלצ'לי פארק: יום בחיי מפצח צפנים"
 english_slug: bletchley-park-day-in-the-life-of-a-codebreaker
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - מלחמת העולם השנייה
   - בלצ'לי פארק

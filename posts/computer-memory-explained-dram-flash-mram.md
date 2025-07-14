@@ -1,7 +1,7 @@
 ---
 title: "זיכרון המחשב נחשף: מה ההבדל בין DRAM, Flash ו-MRAM?"
 english_slug: computer-memory-explained-dram-flash-mram
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags: [זיכרון, DRAM, Flash, MRAM, חומרה, שבבים]
 ---
 <div class="intro-section">

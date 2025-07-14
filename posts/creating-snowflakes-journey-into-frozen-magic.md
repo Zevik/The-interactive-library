@@ -1,7 +1,7 @@
 ---
 title: "בריאת פתית השלג: מסע אל תוך הקסם הקפוא"
 english_slug: creating-snowflakes-journey-into-frozen-magic
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - שלג
   - גבישים

@@ -1,7 +1,7 @@
 ---
 title: "בלשים פרהיסטוריים: זיהוי כלי אבן לפי טכניקה"
 english_slug: prehistoric-detectives-identify-stone-tools-by-technique
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - פרהיסטוריה
   - ארכיאולוגיה

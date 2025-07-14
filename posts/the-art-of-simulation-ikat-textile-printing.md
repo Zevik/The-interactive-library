@@ -1,7 +1,7 @@
 ---
 title: "אמנות הסימול: מסע אל קסם הדפסת טקסטיל בטכניקת איקט"
 english_slug: the-art-of-simulation-ikat-textile-printing
-category: "אמנות ועיצוב / כללי"
+category: "כללי"
 tags:
   - textile
   - ikat

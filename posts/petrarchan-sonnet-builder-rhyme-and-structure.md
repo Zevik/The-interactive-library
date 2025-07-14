@@ -1,7 +1,7 @@
 ---
 title: "בונה סונטות פטררקיות: פתחו את סוד המבנה והחריזה"
 english_slug: petrarchan-sonnet-builder-rhyme-and-structure
-category: "מדעי הרוח / ספרות וכתיבה"
+category: "ספרות"
 tags:
   - סונטה
   - שירה

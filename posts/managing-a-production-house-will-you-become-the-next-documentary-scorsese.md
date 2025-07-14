@@ -1,7 +1,7 @@
 ---
 title: "ניהול בית הפקה: האם תהפוך לסקורסזה הדוקומנטרי הבא?"
 english_slug: managing-a-production-house-will-you-become-the-next-documentary-scorsese
-category: "ניהול ועסקים / ניהול"
+category: "ניהול"
 tags:
   - ניהול פרויקטים
   - הפקה

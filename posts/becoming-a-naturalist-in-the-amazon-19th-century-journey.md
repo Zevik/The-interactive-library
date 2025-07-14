@@ -1,7 +1,7 @@
 ---
 title: "להיות חוקר טבע באמזונס: מסע במאה ה-19"
 english_slug: becoming-a-naturalist-in-the-amazon-19th-century-journey
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - חוקרי טבע
   - אמזונס

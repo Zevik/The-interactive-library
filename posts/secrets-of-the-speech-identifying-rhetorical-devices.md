@@ -1,7 +1,7 @@
 ---
 title: "סודות הנאום: המדריך לזיהוי כלים רטוריים"
 english_slug: secrets-of-the-speech-identifying-rhetorical-devices
-category: "מדעי הרוח / כללי"
+category: "כללי"
 tags: [רטוריקה, נאום, תקשורת, אמנות השכנוע, ניתוח טקסט, כלים רטוריים]
 ---
 # סודות הנאום: המדריך לזיהוי כלים רטוריים

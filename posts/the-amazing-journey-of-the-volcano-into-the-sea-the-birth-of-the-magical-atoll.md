@@ -1,7 +1,7 @@
 ---
 title: "המסע המופלא של הר הגעש אל תוך הים: הולדת האטול הקסום"
 english_slug: the-amazing-journey-of-the-volcano-into-the-sea-the-birth-of-the-magical-atoll
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - אטול
   - שונית אלמוגים

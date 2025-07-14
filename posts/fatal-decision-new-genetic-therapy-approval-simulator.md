@@ -1,7 +1,7 @@
 ---
 title: "החלטה גורלית: סימולטור אישור טיפול גנטי חדש"
 english_slug: fatal-decision-new-genetic-therapy-approval-simulator
-category: "מדעי החיים / רפואה"
+category: "רפואה"
 tags:
   - רגולציה
   - טיפול גנטי

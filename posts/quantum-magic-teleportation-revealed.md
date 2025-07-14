@@ -1,7 +1,7 @@
 ---
 title: "מסע קוונטי: איך טלפורטציה קוונטית עובדת?"
 english_slug: quantum-magic-teleportation-revealed
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - פיזיקה קוונטית
   - טלפורטציה

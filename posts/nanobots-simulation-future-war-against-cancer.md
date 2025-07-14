@@ -1,7 +1,7 @@
 ---
 title: "הננו-רובוטים באים: סימולציה של מלחמת העתיד נגד הסרטן"
 english_slug: nanobots-simulation-future-war-against-cancer
-category: "מדעי החיים / רפואה"
+category: "רפואה"
 tags:
   - ננוטכנולוגיה
   - סרטן

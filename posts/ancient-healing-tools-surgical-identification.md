@@ -1,7 +1,7 @@
 ---
 title: "מנתחים קדומים: חידון זיהוי כלים מרתק"
 english_slug: ancient-healing-tools-surgical-identification
-category: "מדעי החיים / רפואה"
+category: "רפואה"
 tags:
   - היסטוריה של הרפואה
   - ארכיאולוגיה

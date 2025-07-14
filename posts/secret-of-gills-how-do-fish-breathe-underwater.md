@@ -1,7 +1,7 @@
 ---
 title: "סוד הזימים: נשימה קסומה מתחת למים"
 english_slug: secret-of-gills-how-do-fish-breathe-underwater
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - ביולוגיה
   - זימים

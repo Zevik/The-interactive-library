@@ -1,7 +1,7 @@
 ---
 title: "מסע בזמן: זיהוי מטבעות עתיקים - יוון או רומא?"
 english_slug: ancient-coin-identification-greece-or-rome
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - מטבעות עתיקים
   - יוון העתיקה

@@ -1,7 +1,7 @@
 ---
 title: "המוח הדיגיטלי: AI ברשתות חברתיות"
 english_slug: the-digital-brain-ai-in-social-networks
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - בינה מלאכותית
   - רשתות חברתיות

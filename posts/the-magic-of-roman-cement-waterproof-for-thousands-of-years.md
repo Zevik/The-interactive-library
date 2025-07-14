@@ -1,7 +1,7 @@
 ---
 title: "הקסם של הצמנט הרומי: עמיד במים לאלפי שנים"
 english_slug: the-magic-of-roman-cement-waterproof-for-thousands-of-years
-category: "טכנולוגיה / הנדסת חומרים"
+category: "הנדסת חומרים"
 tags: [הנדסה רומית, בטון, צמנט, פוצולן, כימיה של חומרים]
 ---
 <h1>הקסם של הצמנט הרומי: עמיד במים לאלפי שנים</h1>

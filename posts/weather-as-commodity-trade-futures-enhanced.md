@@ -1,7 +1,7 @@
 ---
 title: "מזג אוויר כסחורה: נסה לסחור בחוזים עתידיים"
 english_slug: weather-as-commodity-trade-futures-enhanced
-category: "מדעי החברה / כלכלה ופיננסים"
+category: "כלכלה"
 tags:
   - חוזים עתידיים
   - מסחר

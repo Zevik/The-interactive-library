@@ -1,7 +1,7 @@
 ---
 title: "הבחירה האולימפית: דינמיקה של החלטה קבוצתית"
 english_slug: olympic-choice-group-decision-dynamics
-category: "מדעי החברה / כלכלה התנהגותית"
+category: "כלכלה התנהגותית"
 tags: ["קבלת החלטות", "דינמיקה קבוצתית", "כלכלה התנהגותית", "ועד אולימפי", "בחירה אסטרטגית"]
 ---
 <div class="olympic-container">

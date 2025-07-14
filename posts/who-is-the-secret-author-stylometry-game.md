@@ -1,7 +1,7 @@
 ---
 title: "מיהו המחבר הסודי? משחק זיהוי סגנוני"
 english_slug: who-is-the-secret-author-stylometry-game
-category: "מדעי הרוח / בלשנות"
+category: "בלשנות"
 tags:
   - סטילומטריה
   - ניתוח סגנוני

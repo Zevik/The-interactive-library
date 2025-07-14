@@ -1,7 +1,7 @@
 ---
 title: "אפקט דופלר: למה סירנה של אמבולנס משנה צליל כשהוא חולף?"
 english_slug: doppler-effect-why-ambulance-changes-sound-when-it-passes
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: [אפקט דופלר, גלים, תדר, קול, פיזיקה]
 ---
 # אפקט דופלר: למה סירנה של אמבולנס משנה צליל כשהוא חולף?

@@ -1,7 +1,7 @@
 ---
 title: "מירוץ חימוש אבולוציוני: קרב ההישרדות בין טורף לנטרף"
 english_slug: evolutionary-arms-race-predator-prey
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - אבולוציה
   - אקולוגיה

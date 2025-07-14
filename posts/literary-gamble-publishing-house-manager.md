@@ -1,7 +1,7 @@
 ---
 title: "הימור ספרותי: להיות מנהל הוצאה לאור"
 english_slug: literary-gamble-publishing-house-manager
-category: "ניהול ועסקים / ניהול"
+category: "ניהול"
 tags:
   - הוצאה לאור
   - ניהול

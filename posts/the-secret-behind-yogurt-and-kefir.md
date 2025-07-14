@@ -1,7 +1,7 @@
 ---
 title: "מסע חיידקי: הסוד שמאחורי היוגורט והקפיר"
 english_slug: the-secret-behind-yogurt-and-kefir
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags: ["תסיסה", "יוגורט", "קפיר", "חיידקים", "מדעי המזון", "פרוביוטיקה", "מעבדה ביתית"]
 ---
 <div class="intro-text">

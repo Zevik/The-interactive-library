@@ -1,7 +1,7 @@
 ---
 title: "מגרש משחקים של צבעים"
 english_slug: color-palette-generator-tool
-category: "אמנות ועיצוב / עיצוב גרפי"
+category: "עיצוב גרפי"
 tags:
   - צבע
   - עיצוב

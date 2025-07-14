@@ -1,7 +1,7 @@
 ---
 title: "קרב ההישרדות הגדול: איך בעלי חיים מנצחים את הקור הקיצוני?"
 english_slug: surviving-in-freezing-cold-adaptation-secrets
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - ביולוגיה
   - אקולוגיה

@@ -1,7 +1,7 @@
 ---
 title: "הקסם הכחול: מסע מופלא אל לב גבינות העובש"
 english_slug: blue-magic-cheese-mold-making
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
 - גבינה
 - עובש

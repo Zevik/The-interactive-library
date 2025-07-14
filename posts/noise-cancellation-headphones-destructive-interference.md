@@ -1,7 +1,7 @@
 ---
 title: "ביטול רעשים באוזניות: איך גלים הופכים שקט לקסם פיזיקלי?"
 english_slug: noise-cancellation-headphones-destructive-interference
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - physics
   - waves

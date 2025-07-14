@@ -1,7 +1,7 @@
 ---
 title: "המסע המופלא מגרגיר חיים לאפרוח"
 english_slug: the-incredible-journey-from-speck-of-life-to-chick
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags: [ביולוגיה, התפתחות, עובר, ביצה, מחזור חיים, סימולציה]
 ---
 

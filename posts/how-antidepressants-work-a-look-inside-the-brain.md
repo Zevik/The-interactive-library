@@ -1,7 +1,7 @@
 ---
 title: "סרוטונין, סינפסות ו-SSRI: הצצה מרתקת אל המוח"
 english_slug: how-antidepressants-work-a-look-inside-the-brain
-category: "מדעי החיים / מדעי המוח"
+category: "מדעי המוח"
 tags:
   - SSRI
   - דיכאון

@@ -1,7 +1,7 @@
 ---
 title: "השופט והיין: משחק ההחלטה המוטה?"
 english_slug: the-judge-and-the-wine-a-journey-to-the-biased-decision
-category: "מדעי החברה / כלכלה התנהגותית"
+category: "כלכלה התנהגותית"
 tags:
   - שופט יין
   - קבלת החלטות

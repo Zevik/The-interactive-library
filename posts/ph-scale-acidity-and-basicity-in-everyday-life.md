@@ -1,7 +1,7 @@
 ---
 title: "סולם pH: חומציות ובסיסיות בחיי היומיום"
 english_slug: ph-scale-acidity-and-basicity-in-everyday-life
-category: "מדעים מדויקים / כימיה"
+category: "כימיה"
 tags: [כימיה, pH, חומצות, בסיסים, מדע, חיי היומיום]
 ---
 # סולם pH: חומציות ובסיסיות בחיי היומיום

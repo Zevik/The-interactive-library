@@ -1,7 +1,7 @@
 ---
 title: "מסע קסום: כך התפתחה ההרמוניה ושנתה את פני המוזיקה"
 english_slug: how-harmony-sounds-a-journey-through-western-music-evolution
-category: "אמנות ועיצוב / מוזיקה"
+category: "מוזיקה"
 tags: [מוזיקה, הרמוניה, תולדות המוזיקה, פוליפוניה, אקורדים]
 ---
 <style>

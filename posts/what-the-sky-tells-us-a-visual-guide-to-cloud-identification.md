@@ -1,7 +1,7 @@
 ---
 title: "שפת השמיים: מדריך מרתק לזיהוי עננים"
 english_slug: what-the-sky-tells-us-a-visual-guide-to-cloud-identification
-category: "מדעי הסביבה / מדעי האטמוספרה"
+category: "מדעי האטמוספרה"
 tags: ["עננים", "מזג אוויר", "חיזוי", "אטמוספירה", "מדע", "אינטראקטיבי"]
 ---
 <div class="interactive-container">

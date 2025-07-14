@@ -1,7 +1,7 @@
 ---
 title: "יער עד בצומת דרכים: המשימה לשימור"
 english_slug: ancient-forest-crossroads-conservation-decision-simulator
-category: "מדעי הסביבה / כללי"
+category: "כללי"
 tags:
   - שימור טבע
   - קבלת החלטות

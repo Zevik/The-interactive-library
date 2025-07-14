@@ -1,7 +1,7 @@
 ---
 title: "מסע אל המבנה הפנימי: אתגר זיהוי הגבישים"
 english_slug: journey-to-the-internal-structure-crystal-identification-challenge
-category: "מדעי הסביבה / גיאולוגיה"
+category: "גיאולוגיה"
 tags: ["גבישים", "מינרלים", "מבנה גבישי", "קריסטלוגרפיה", "זיהוי", "אינטראקטיבי"]
 ---
 # מסע אל המבנה הפנימי: גלו את סוד המבנה הגבישי

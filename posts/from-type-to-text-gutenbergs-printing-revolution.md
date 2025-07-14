@@ -1,7 +1,7 @@
 ---
 title: "ממה עשויה האות? המסע המרתק מדפוס גוטנברג למהפכת המידע"
 english_slug: from-type-to-text-gutenbergs-printing-revolution
-category: "מדעי הרוח / היסטוריה של המדע"
+category: "היסטוריה של המדע"
 tags:
   - דפוס
   - גוטנברג

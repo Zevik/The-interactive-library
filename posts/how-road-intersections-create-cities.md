@@ -1,7 +1,7 @@
 ---
 title: "איך צמתי דרכים יוצרים ערים?"
 english_slug: how-road-intersections-create-cities
-category: "מדעי החברה / גאוגרפיה"
+category: "גאוגרפיה"
 tags:
   - ערים
   - צמתים

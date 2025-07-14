@@ -1,7 +1,7 @@
 ---
 title: "מכונת כתיבה מול מקלדת: המסע מהמכני לאלקטרוני"
 english_slug: typewriter-vs-keyboard-mechanical-electronic-journey
-category: "טכנולוגיה / היסטוריה של הטכנולוגיה"
+category: "היסטוריה של הטכנולוגיה"
 tags: [מכונת כתיבה, מקלדת מחשב, מכניקה, אלקטרוניקה, התפתחות טכנולוגית]
 ---
 <!DOCTYPE html>

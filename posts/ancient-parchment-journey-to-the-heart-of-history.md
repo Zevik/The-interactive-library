@@ -1,7 +1,7 @@
 ---
 title: "קלף קדומים: מסע אל ליבה של היסטוריה"
 english_slug: ancient-parchment-journey-to-the-heart-of-history
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - קלף
   - כתבי יד עתיקים

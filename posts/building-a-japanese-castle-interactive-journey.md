@@ -1,7 +1,7 @@
 ---
 title: "בונים טירה יפנית: מסע אינטראקטיבי"
 english_slug: building-a-japanese-castle-interactive-journey
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - טירות יפניות
   - אדריכלות

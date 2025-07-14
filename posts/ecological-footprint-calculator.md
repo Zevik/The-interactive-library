@@ -1,7 +1,7 @@
 ---
 title: "מחשבון טביעת רגל אקולוגית - המדריך האינטראקטיבי"
 english_slug: ecological-footprint-calculator
-category: "מדעי הסביבה / כללי"
+category: "כללי"
 tags:
   - סביבה
   - אקולוגיה

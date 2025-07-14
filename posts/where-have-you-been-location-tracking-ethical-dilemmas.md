@@ -1,7 +1,7 @@
 ---
 title: "איפה היית? מסע בדילמות האתיות של מעקב המיקום הדיגיטלי"
 english_slug: where-have-you-been-location-tracking-ethical-dilemmas
-category: "מדעי הרוח / פילוסופיה"
+category: "פילוסופיה"
 tags:
   - פרטיות
   - מעקב דיגיטלי

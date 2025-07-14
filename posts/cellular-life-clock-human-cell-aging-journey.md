@@ -1,7 +1,7 @@
 ---
 title: "שעון החיים התאי: מסע ההתבגרות המופלא של התא"
 english_slug: cellular-life-clock-human-cell-aging-journey
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - הזדקנות
   - תאים

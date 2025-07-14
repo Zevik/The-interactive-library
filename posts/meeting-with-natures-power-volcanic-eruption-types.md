@@ -1,7 +1,7 @@
 ---
 title: "מפגש עם עוצמת הטבע: סוגי התפרצויות געשיות"
 english_slug: meeting-with-natures-power-volcanic-eruption-types
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags: ["געש", "התפרצות געשית", "וולקנולוגיה", "סוגי הרי געש", "לבה", "אפר געשי", "זרם פירוקלסטי"]
 ---
 

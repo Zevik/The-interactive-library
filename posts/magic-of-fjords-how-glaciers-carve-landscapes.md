@@ -1,7 +1,7 @@
 ---
 title: "הכוח העצום של הקרח: מסע אל לב הפיורדים"
 english_slug: magic-of-fjords-how-glaciers-carve-landscapes
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - פיורדים
   - קרחונים

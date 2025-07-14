@@ -1,7 +1,7 @@
 ---
 title: "קסם ההשחמה: סימולטור תגובת מייאר"
 english_slug: maillard-reaction-simulator
-category: "מדעים מדויקים / כימיה"
+category: "כימיה"
 tags: [כימיה, בישול, מזון, תגובת מייאר, השחמה, סימולציה, אינטראקטיבי]
 ---
 <section class="intro-section">

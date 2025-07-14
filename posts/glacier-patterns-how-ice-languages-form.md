@@ -1,7 +1,7 @@
 ---
 title: "סודות הקרח: מסע אל לב התבניות המופלאות של קרחונים"
 english_slug: glacier-patterns-how-ice-languages-form
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - קרחונים
   - קרח

@@ -1,7 +1,7 @@
 ---
 title: "חיים רותחים: הישרדות בנביעות הידרותרמיות"
 english_slug: boiling-life-survival-in-hydrothermal-vents
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - נביעות הידרותרמיות
   - חיים קיצוניים

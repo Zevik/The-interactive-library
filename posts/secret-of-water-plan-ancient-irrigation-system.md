@@ -1,7 +1,7 @@
 ---
 title: "סוד המים: תכנן מערכת השקיה קדומה"
 english_slug: secret-of-water-plan-ancient-irrigation-system
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - השקיה
   - היסטוריה עתיקה

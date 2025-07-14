@@ -1,7 +1,7 @@
 ---
 title: "לאשר או לא לאשר? דילמת המזון המהונדס"
 english_slug: approve-or-not-approve-the-genetically-engineered-food-dilemma
-category: "מיומנויות וחינוך / חשיבה ומחקר"
+category: "חשיבה ביקורתית"
 tags: מזון מהונדס גנטית, רגולציה, קבלת החלטות, הערכת סיכונים, מדיניות ציבורית
 ---
 <div class="simulation-wrapper">

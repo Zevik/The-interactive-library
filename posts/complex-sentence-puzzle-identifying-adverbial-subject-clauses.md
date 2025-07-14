@@ -1,7 +1,7 @@
 ---
 title: "משחק הפסוקיות: מי נגד מי במשפט המורכב?"
 english_slug: complex-sentence-puzzle-identifying-adverbial-subject-clauses
-category: "מדעי הרוח / בלשנות"
+category: "בלשנות"
 tags: [לשון, תחביר, פסוקית, משפט מורכב, עברית, דקדוק, סימולציה, תרגול]
 ---
 <div id="app-container" class="game-container">

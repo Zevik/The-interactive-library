@@ -1,7 +1,7 @@
 ---
 title: "מעבדת ההרמוניה המופלאה"
 english_slug: musical-harmony-tool
-category: "אמנות ועיצוב / מוזיקה"
+category: "מוזיקה"
 tags: [interactive, music, harmony, intervals, chords, piano, experiment, play]
 ---
 # מעבדת ההרמוניה המופלאה

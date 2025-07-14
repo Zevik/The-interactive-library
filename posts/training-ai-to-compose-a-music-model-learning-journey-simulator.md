@@ -1,7 +1,7 @@
 ---
 title: "לאמן בינה מלאכותית להלחין: סימולטור מסע הלמידה של מודל מוזיקה"
 english_slug: training-ai-to-compose-a-music-model-learning-journey-simulator
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags: [בינה מלאכותית, למידת מכונה, מוזיקה גנרטיבית, אימון מודלים, רשתות נוירונים, סימולציה]
 ---
 

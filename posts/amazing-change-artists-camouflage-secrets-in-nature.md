@@ -1,7 +1,7 @@
 ---
 title: "אמני השינוי המופלא: סודות ההסוואה בטבע"
 english_slug: amazing-change-artists-camouflage-secrets-in-nature
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - הסוואה
   - התאמה לסביבה

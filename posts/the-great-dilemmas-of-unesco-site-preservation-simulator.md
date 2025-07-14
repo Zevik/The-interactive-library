@@ -1,7 +1,7 @@
 ---
 title: "דילמת פורטה מארה: סימולטור הצלת אתר מורשת"
 english_slug: the-great-dilemmas-of-unesco-site-preservation-simulator
-category: "מדעי הסביבה / אקולוגיה וקיימות"
+category: "אקולוגיה"
 tags:
   - אונסק"ו
   - שימור אתרים

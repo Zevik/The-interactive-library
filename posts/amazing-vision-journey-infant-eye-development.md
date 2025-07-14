@@ -1,7 +1,7 @@
 ---
 title: "מסע הראייה המדהים: כך העולם נפתח לתינוקכם"
 english_slug: amazing-vision-journey-infant-eye-development
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - התפתחות תינוקות
   - ראייה

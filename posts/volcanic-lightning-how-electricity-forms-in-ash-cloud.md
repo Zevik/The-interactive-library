@@ -1,7 +1,7 @@
 ---
 title: "ברק מהר הגעש: כך נוצר חשמל בענן אפר געשי"
 english_slug: volcanic-lightning-how-electricity-forms-in-ash-cloud
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - הרי געש
   - ברק

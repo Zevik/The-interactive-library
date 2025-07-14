@@ -1,7 +1,7 @@
 ---
 title: "AI יוצרת: צומת הדרכים האתי"
 english_slug: generative-ai-ethical-challenges
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - בינה מלאכותית
   - אתיקה

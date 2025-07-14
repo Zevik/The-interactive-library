@@ -1,7 +1,7 @@
 ---
 title: "הצפנה בעולם הקוונטי: הצצה לאלגוריתמים עמידים"
 english_slug: encryption-in-the-quantum-world-a-look-at-resilient-algorithms
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - הצפנה
   - קריפטוגרפיה

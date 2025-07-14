@@ -1,7 +1,7 @@
 ---
 title: "המסע האפי של הצלופח: מהנהר העיקש אל הים הפתוח ובחזרה"
 english_slug: the-epic-journey-of-the-eel-from-river-to-open-sea-and-back
-category: "מדעי החיים / ביולוגיה ימית"
+category: "ביולוגיה ימית"
 tags: [צלופח, נדידה, אוקיינוס, נהר, מעגל חיים, ים סרגסו, מסע מופלא, טבע]
 ---
 <div class="simulation-wrapper">

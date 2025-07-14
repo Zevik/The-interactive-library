@@ -1,7 +1,7 @@
 ---
 title: "קסם הצבעים: גלגל הצבעים האינטראקטיבי והסודות ליצירת פלטות מנצחות"
 english_slug: the-color-wheel-guide-to-perfect-chromatics
-category: "אמנות ועיצוב / עיצוב גרפי"
+category: "עיצוב גרפי"
 tags:
   - צבעים
   - גלגל צבעים

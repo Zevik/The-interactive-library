@@ -1,7 +1,7 @@
 ---
 title: "ריקוד החלקיקים: מסע למצבי צבירה ואנרגיה"
 english_slug: particles-in-motion-states-of-matter-and-temperature
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - מצבי צבירה
   - חלקיקים

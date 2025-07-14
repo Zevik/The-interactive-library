@@ -1,7 +1,7 @@
 ---
 title: "ועדת ערר: החלטה גורלית במכרז ציבורי"
 english_slug: appeal-committee-decision-tender-simulator-pro
-category: "ניהול ועסקים / משפטים"
+category: "משפטים"
 tags:
   - מכרזים
   - ועדת ערר

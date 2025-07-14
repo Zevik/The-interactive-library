@@ -1,7 +1,7 @@
 ---
 title: "מים מתאזנים בכלים שונים: סוד הכלים השלובים"
 english_slug: water-leveling-different-vessels-communicating-vessels-secret
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: ["זורמים", "לחץ", "כלים שלובים", "עקרון פסקל", "הידרוסטטיקה"]
 ---
 # גלו את הקסם של כלים שלובים: האם המים תמיד מתאזנים?

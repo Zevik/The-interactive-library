@@ -1,7 +1,7 @@
 ---
 title: "קסם הפיזיקה בבועות סבון"
 english_slug: physics-magic-soap-bubbles
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - פיזיקה
   - בועות סבון

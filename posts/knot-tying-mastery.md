@@ -1,7 +1,7 @@
 ---
 title: "אמנות הקשרים: שליטה בחבל להצלה ולהצלחה"
 english_slug: knot-tying-mastery
-category: "מיומנויות וחינוך / כללי"
+category: "כללי"
 tags:
   - קשרים
   - חבל

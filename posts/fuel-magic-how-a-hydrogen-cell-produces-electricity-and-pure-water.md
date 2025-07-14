@@ -1,7 +1,7 @@
 ---
 title: "קסם הדלק: איך תא מימן מייצר חשמל ומים נקיים?"
 english_slug: fuel-magic-how-a-hydrogen-cell-produces-electricity-and-pure-water
-category: "מדעים מדויקים / כימיה"
+category: "כימיה"
 tags:
   - תא דלק
   - מימן

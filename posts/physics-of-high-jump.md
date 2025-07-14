@@ -1,7 +1,7 @@
 ---
 title: "כוח הכבידה נגד האתלט: פיזיקת הקפיצה לגובה"
 english_slug: physics-of-high-jump
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
     - פיזיקה
     - קפיצה לגובה

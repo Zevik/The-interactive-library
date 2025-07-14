@@ -1,7 +1,7 @@
 ---
 title: "לפנח את הרשת: כלי GNN להבנת מבנים מורכבים"
 english_slug: decoding-the-network-gnn-tool-for-understanding-complex-structures
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags: [GNN, רשתות עצביות גרפיות, ניתוח רשתות, למידת מכונה, גרפים]
 ---
 <div id="gnn-app-container" style="display: flex; flex-direction: column; gap: 30px; max-width: 900px; margin: 20px auto; font-family: 'Arial', sans-serif; background-color: #f0f4f8; padding: 20px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">

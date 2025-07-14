@@ -1,7 +1,7 @@
 ---
 title: "ריקוד כבידתי: צור מסלולים בחלל!"
 english_slug: cosmic-dance-create-orbits-in-space
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - פיזיקה
   - אסטרונומיה

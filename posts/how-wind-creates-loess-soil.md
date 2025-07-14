@@ -1,7 +1,7 @@
 ---
 title: "איך הרוח בונה אדמת לוס? מסע מדהים של גרגר אבק"
 english_slug: how-wind-creates-loess-soil
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - לוס
   - קרקע

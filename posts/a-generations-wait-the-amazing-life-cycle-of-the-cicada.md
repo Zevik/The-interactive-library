@@ -1,7 +1,7 @@
 ---
 title: "המתנה של דור: מחזור החיים המדהים של הציקדה"
 english_slug: a-generations-wait-the-amazing-life-cycle-of-the-cicada
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - ציקדה
   - מחזור חיים

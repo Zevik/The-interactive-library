@@ -1,7 +1,7 @@
 ---
 title: "פרקטלים: הקוד הסודי של הטבע"
 english_slug: fractals-repeating-shapes-in-nature
-category: "מדעי הטבע"
+category: "מדע כללי"
 tags:
   - פרקטלים
   - גיאומטריה

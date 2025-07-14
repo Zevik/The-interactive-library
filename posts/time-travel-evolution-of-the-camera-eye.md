@@ -1,7 +1,7 @@
 ---
 title: "מסע בזמן: אבולוציית עין המצלמה"
 english_slug: time-travel-evolution-of-the-camera-eye
-category: "מדעי הרוח / היסטוריה של המדע"
+category: "היסטוריה של המדע"
 tags:
   - אופטיקה
   - היסטוריה

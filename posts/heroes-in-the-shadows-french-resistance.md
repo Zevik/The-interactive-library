@@ -1,7 +1,7 @@
 ---
 title: "גיבורים בצללים: התנגדות צרפתית"
 english_slug: heroes-in-the-shadows-french-resistance
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - מלחמת העולם השנייה
   - התנגדות צרפתית

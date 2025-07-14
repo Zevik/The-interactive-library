@@ -1,7 +1,7 @@
 ---
 title: "רובוטים רכים בהשראת הטבע: בנה ותכנת תמנון או תולעת"
 english_slug: soft-robots-inspired-by-nature-build-and-program-octopus-or-worm
-category: "טכנולוגיה / רובוטיקה"
+category: "רובוטיקה"
 tags: [רובוטיקה רכה, ביומימטיקה, הנדסה, רובוטים, תכנות]
 ---
 # רובוטים רכים בהשראת הטבע: בנה ותכנת תמנון או תולעת

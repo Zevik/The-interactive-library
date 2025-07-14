@@ -1,7 +1,7 @@
 ---
 title: "גיאומטריה קסומה: הסוד המתמטי של אשר"
 english_slug: magical-geometry-eschers-mathematical-secret
-category: "מדעים מדויקים / מתמטיקה"
+category: "מתמטיקה"
 tags:
   - גיאומטריה היפרבולית
   - אשר

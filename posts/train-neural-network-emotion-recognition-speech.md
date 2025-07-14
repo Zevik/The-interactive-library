@@ -1,7 +1,7 @@
 ---
 title: "מעבדת אימון: ללמד מכונה להרגיש דרך הקול"
 english_slug: train-neural-network-emotion-recognition-speech
-category: "טכנולוגיה / בינה מלאכותית"
+category: "בינה מלאכותית"
 tags:
   - רשתות עצביות
   - למידת מכונה

@@ -1,7 +1,7 @@
 ---
 title: "טעות הייחוס הבסיסית: האם אנחנו באמת מבינים למה אנשים עושים את מה שהם עושים?"
 english_slug: fundamental-attribution-error-scenario
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags:
   - פסיכולוגיה חברתית
   - הטיות קוגניטיביות

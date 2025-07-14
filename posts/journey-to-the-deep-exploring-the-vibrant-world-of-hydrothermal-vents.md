@@ -1,7 +1,7 @@
 ---
 title: "מסע למעמקים: לחקור את העולם התוסס של נביעות הידרותרמיות"
 english_slug: journey-to-the-deep-exploring-the-vibrant-world-of-hydrothermal-vents
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - נביעות הידרותרמיות
   - ים עמוק

@@ -1,7 +1,7 @@
 ---
 title: "הסכנה השקופה: מדוע עצירה בדרך למעלה מצילה צוללנים?"
 english_slug: the-invisible-danger-why-stopping-on-the-way-up-saves-divers
-category: "מדעי החיים / פיזיולוגיה"
+category: "פיזיולוגיה"
 tags:
   - צלילה
   - דקומפרסיה

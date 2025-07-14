@@ -1,7 +1,7 @@
 ---
 title: "אמן או מנהל? ניהול תיאטרון בובות"
 english_slug: puppet-theatre-management-simulate
-category: "ניהול ועסקים / ניהול"
+category: "ניהול"
 tags: [ניהול, תיאטרון, סימולציה, עסקים, קבלת החלטות, תקציב, מוניטין, קהל]
 ---
 <div class="game-intro">

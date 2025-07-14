@@ -1,7 +1,7 @@
 ---
 title: "CRISPR: כך חותכים ועורכים DNA בדיוק מדהים"
 english_slug: crispr-how-to-cut-and-edit-dna-with-precision
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - ביולוגיה מולקולרית
   - הנדסה גנטית

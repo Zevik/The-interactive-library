@@ -1,7 +1,7 @@
 ---
 title: "מדוע נהרות מסוימים מתפצלים לעשרות ערוצים?"
 english_slug: why-do-some-rivers-split-into-dozens-of-channels
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - גיאומורפולוגיה
   - נהרות

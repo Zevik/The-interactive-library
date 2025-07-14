@@ -1,7 +1,7 @@
 ---
 title: "עולם נסתר בחשמל: הצצה ליכולות החושיות המדהימות של דגים חשמליים"
 english_slug: hidden-electric-world-amazing-senses-electric-fish
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags: electric fish, bioelectricity, electrolocation, electrocommunication, animal senses, advanced senses, aquatic life
 ---
 <div class="tank">

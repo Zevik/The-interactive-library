@@ -1,7 +1,7 @@
 ---
 title: "שעון מים עתיק: זמן שזורם"
 english_slug: ancient-water-clock-flowing-time
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: ["שעון מים", "קלפסידרה", "טכנולוגיה עתיקה", "מדידת זמן", "פיזיקה", "טוריצ'לי"]
 ---
 <style>

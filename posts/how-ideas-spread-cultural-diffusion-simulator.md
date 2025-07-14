@@ -1,7 +1,7 @@
 ---
 title: "מסע הרעיון: סימולטור התפשטות תרבותית"
 english_slug: how-ideas-spread-cultural-diffusion-simulator
-category: "מדעי החברה / סוציולוגיה ואנתרופולוגיה"
+category: "סוציולוגיה"
 tags:
   - דיפוזיה תרבותית
   - התפשטות רעיונות

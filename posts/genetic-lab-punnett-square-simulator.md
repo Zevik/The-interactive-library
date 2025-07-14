@@ -1,7 +1,7 @@
 ---
 title: "מעבדה גנטית: סימולטור ריבוע פאנט"
 english_slug: genetic-lab-punnett-square-simulator
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - גנטיקה
   - תורשה

@@ -1,7 +1,7 @@
 ---
 title: "משחק החלוקה הגדול: ועידת ברלין"
 english_slug: divide-the-world-berlin-conference-simulation
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - אימפריאליזם
   - קולוניאליזם

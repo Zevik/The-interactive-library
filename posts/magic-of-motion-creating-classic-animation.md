@@ -1,7 +1,7 @@
 ---
 title: "קסם התנועה: יצירת סרט אנימציה קלאסי"
 english_slug: magic-of-motion-creating-classic-animation
-category: "אמנות ועיצוב / אמנות דיגיטלית"
+category: "אמנות דיגיטלית"
 tags:
   - אנימציה
   - אנימציה קלאסית

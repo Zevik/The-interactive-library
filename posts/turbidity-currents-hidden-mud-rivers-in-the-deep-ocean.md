@@ -1,7 +1,7 @@
 ---
 title: "זרמי עכירות: נהרות בוץ נסתרים במעמקי האוקיינוס"
 english_slug: turbidity-currents-hidden-mud-rivers-in-the-deep-ocean
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - גיאולוגיה ימית
   - אוקיינוגרפיה

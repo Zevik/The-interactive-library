@@ -1,7 +1,7 @@
 ---
 title: "השפה הסודית של הצמחים: כך הם מתריעים על סכנה"
 english_slug: the-secret-language-of-plants-how-they-warn-of-danger
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags: צמחים, תקשורת כימית, הגנה, מזיקים, איתות צמחי, בוטניקה
 ---
 

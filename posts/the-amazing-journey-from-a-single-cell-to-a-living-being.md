@@ -1,7 +1,7 @@
 ---
 title: "המסע המופלא: מתא בודד ליצור חי"
 english_slug: the-amazing-journey-from-a-single-cell-to-a-living-being
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - ביולוגיה
   - התפתחות

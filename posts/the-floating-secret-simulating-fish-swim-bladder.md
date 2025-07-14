@@ -1,7 +1,7 @@
 ---
 title: "סודות הציפה: שליטה בעומק בעזרת שלפוחית השחייה"
 english_slug: the-floating-secret-simulating-fish-swim-bladder
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - ביולוגיה ימית
   - אנטומיה

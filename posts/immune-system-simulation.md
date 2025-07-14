@@ -1,7 +1,7 @@
 ---
 title: "המגנים הפנימיים: הדמיית מערכת החיסון בפעולה"
 english_slug: "immune-system-simulation"
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - מערכת החיסון
   - ביולוגיה

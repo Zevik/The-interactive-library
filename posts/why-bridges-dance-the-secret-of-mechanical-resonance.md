@@ -1,7 +1,7 @@
 ---
 title: "למה גשרים רוקדים? סוד התהודה המכנית נחשף!"
 english_slug: why-bridges-dance-the-secret-of-mechanical-resonance
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - פיזיקה
   - תהודה

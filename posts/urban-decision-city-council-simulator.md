@@ -1,7 +1,7 @@
 ---
 title: "החלטה עירונית: הסימולטור של מועצת העיר"
 english_slug: urban-decision-city-council-simulator
-category: "מדעי החברה / מדע המדינה ומדיניות ציבורית"
+category: "מדע המדינה"
 tags:
   - תכנון עירוני
   - מדיניות ציבורית

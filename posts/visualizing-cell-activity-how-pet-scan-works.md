@@ -1,7 +1,7 @@
 ---
 title: "פענוח הגוף: מסע ויזואלי אל תוך סודות ה-PET סקאן"
 english_slug: visualizing-cell-activity-how-pet-scan-works
-category: "מדעי החיים / רפואה"
+category: "רפואה"
 tags:
   - PET סקאן
   - דימות גרעיני

@@ -1,7 +1,7 @@
 ---
 title: "ללמד מחשב לקרוא: מסע אל עולם זיהוי כתב יד"
 english_slug: teaching-a-computer-to-read-handwriting-recognition
-category: "טכנולוגיה / בינה מלאכותית"
+category: "בינה מלאכותית"
 tags:
   - למידת מכונה
   - בינה מלאכותית

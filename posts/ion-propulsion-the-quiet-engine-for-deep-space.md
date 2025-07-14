@@ -1,7 +1,7 @@
 ---
 title: "הנעה יונית: מסע שקט אל עומק החלל"
 english_slug: ion-propulsion-the-quiet-engine-for-deep-space
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: ["הנעה יונית", "חלל", "פיזיקה", "מנועים", "טכנולוגיה"]
 ---
 <div class="page-container">

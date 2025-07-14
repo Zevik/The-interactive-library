@@ -1,7 +1,7 @@
 ---
 title: "הזיכרון של המחשב: מסע לתוך רשתות RNN"
 english_slug: understanding-rnns-the-memory-of-neural-networks-for-sequence-processing
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - רשתות עצביות
   - RNN

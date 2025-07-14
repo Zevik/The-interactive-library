@@ -1,7 +1,7 @@
 ---
 title: "עריכה גנטית: על סף שינוי גורל האדם?"
 english_slug: genetic-dilemmas-will-you-change-your-destiny
-category: "מדעי החיים / רפואה"
+category: "רפואה"
 tags: עריכה גנטית,קריספר,אתיקה,ביואתיקה,דילמה מוסרית
 ---
 # עריכה גנטית: על סף שינוי גורל האדם?

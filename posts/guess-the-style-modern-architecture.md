@@ -1,7 +1,7 @@
 ---
 title: "נחש את הסגנון: אדריכלות מודרנית"
 english_slug: guess-the-style-modern-architecture
-category: "אמנות ועיצוב / אדריכלות"
+category: "אדריכלות"
 tags:
   - אדריכלות מודרנית
   - באוהאוס

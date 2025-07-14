@@ -1,7 +1,7 @@
 ---
 title: "הרפתקה על המפה: מסעות ששינו את פני העולם"
 english_slug: adventure-on-the-map-journeys-that-changed-the-world
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - מגלי עולם
   - עידן התגליות

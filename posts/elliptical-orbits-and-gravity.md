@@ -1,7 +1,7 @@
 ---
 title: "ריקוד קוסמי: מסלולים אליפטיים וכוח המשיכה"
 english_slug: elliptical-orbits-and-gravity
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - פיזיקה
   - אסטרונומיה

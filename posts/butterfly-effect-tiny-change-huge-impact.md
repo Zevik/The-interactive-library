@@ -1,7 +1,7 @@
 ---
 title: "כנפי פרפר: מסע כאוטי מנקודה לנקודה"
 english_slug: butterfly-effect-tiny-change-huge-impact
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: [כאוס, אפקט-הפרפר, רגישות-לתנאי-התחלה, סימולציה, מערכות-דינמיות]
 ---
 <div class="page-container">

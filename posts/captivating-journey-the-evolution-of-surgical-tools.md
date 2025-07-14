@@ -1,7 +1,7 @@
 ---
 title: "מסע בזמן: האבולוציה המרתקת של כלי הניתוח"
 english_slug: captivating-journey-the-evolution-of-surgical-tools
-category: "מדעי החיים / רפואה"
+category: "רפואה"
 tags:
   - היסטוריה
   - רפואה

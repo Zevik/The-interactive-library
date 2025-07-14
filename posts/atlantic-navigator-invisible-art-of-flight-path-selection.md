@@ -1,7 +1,7 @@
 ---
 title: "נווט אטלנטי: האמנות הבלתי נראית של בחירת נתיב טיסה"
 english_slug: atlantic-navigator-invisible-art-of-flight-path-selection
-category: "טכנולוגיה / אווירונאוטיקה וחלל"
+category: "אווירונאוטיקה וחלל"
 tags:
   - תעופה
   - ניווט

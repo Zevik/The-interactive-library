@@ -1,7 +1,7 @@
 ---
 title: "מהצמח למדף: המסע המופלא של הסוכר"
 english_slug: from-plant-to-shelf-the-wonderful-journey-of-sugar
-category: "מדעי החיים / מדעי המזון"
+category: "מדעי המזון"
 tags:
   - סוכר
   - הפקת סוכר

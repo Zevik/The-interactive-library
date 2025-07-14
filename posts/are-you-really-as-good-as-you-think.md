@@ -1,7 +1,7 @@
 ---
 title: "האם אתם באמת יודעים כמה אתם יודעים?"
 english_slug: are-you-really-as-good-as-you-think
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags:
   - אפקט דאנינג-קרוגר
   - הטיה קוגניטיבית

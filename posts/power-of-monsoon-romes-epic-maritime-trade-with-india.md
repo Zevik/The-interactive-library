@@ -1,7 +1,7 @@
 ---
 title: "כוחו של המונסון: המסע הימי העצום בין רומא להודו"
 english_slug: power-of-monsoon-romes-epic-maritime-trade-with-india
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - היסטוריה עתיקה
   - סחר ימי

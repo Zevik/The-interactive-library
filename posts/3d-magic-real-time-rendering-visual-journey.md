@@ -1,7 +1,7 @@
 ---
 title: "קסם התלת-ממד: מסע ויזואלי אל תהליך הרינדור בזמן אמת"
 english_slug: 3d-magic-real-time-rendering-visual-journey
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - גרפיקה ממוחשבת
   - תלת-ממד

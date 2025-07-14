@@ -1,7 +1,7 @@
 ---
 title: "דרך הענבר: מסע הזהב הצפוני לים התיכון"
 english_slug: amber-road-journey-northern-gold-mediterranean
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - דרך הענבר
   - סחר עתיק

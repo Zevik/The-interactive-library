@@ -1,7 +1,7 @@
 ---
 title: "מרוץ ההגנה: שרידת הצמחים נגד הטורפים"
 english_slug: plants-defend-simulation-defense-mechanisms
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - צמחים
   - הגנה

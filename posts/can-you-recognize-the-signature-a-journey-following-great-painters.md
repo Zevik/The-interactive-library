@@ -1,7 +1,7 @@
 ---
 title: "האם תזהה את החתימה? מסע בעקבות ציירים גדולים"
 english_slug: can-you-recognize-the-signature-a-journey-following-great-painters
-category: "אמנות ועיצוב / תולדות האמנות"
+category: "תולדות האמנות"
 tags: [אמנות, ציירים, חתימות, זיהוי, אמנים מפורסמים]
 ---
 <h1>האם תזהה את החתימה? מסע בעקבות ציירים גדולים</h1>

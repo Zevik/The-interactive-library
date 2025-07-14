@@ -1,7 +1,7 @@
 ---
 title: "כדור הארץ המגנטי: מסע מרתק אל נדידת הקטבים"
 english_slug: magnetic-earth-pole-wandering
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - מגנטיות
   - גיאופיזיקה

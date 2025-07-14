@@ -1,7 +1,7 @@
 ---
 title: "מינרלים זוהרים: המסע אל האור הנסתר"
 english_slug: glowing-minerals-hidden-light
-category: "מדעי הסביבה / גיאולוגיה"
+category: "גיאולוגיה"
 tags:
   - מינרלים
   - פלואורסצנטית

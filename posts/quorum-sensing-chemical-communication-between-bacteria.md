@@ -1,7 +1,7 @@
 ---
 title: "קוורום סנסינג: סוד התקשורת הכימית של חיידקים"
 english_slug: quorum-sensing-chemical-communication-between-bacteria
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - קוורום סנסינג
   - חיידקים

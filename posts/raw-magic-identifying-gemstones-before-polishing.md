@@ -1,7 +1,7 @@
 ---
 title: "קסם גלם: זיהוי אבני חן לפני ליטושן"
 english_slug: raw-magic-identifying-gemstones-before-polishing
-category: "מדעי הסביבה / גיאולוגיה"
+category: "גיאולוגיה"
 tags: [אבני חן, גמולוגיה, מינרלים, זיהוי יהלומים, גיאולוגיה]
 ---
 <h1>קסם גלם: זיהוי אבני חן לפני ליטושן</h1>

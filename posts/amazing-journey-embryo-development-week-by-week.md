@@ -1,7 +1,7 @@
 ---
 title: "מסע מדהים: התפתחות העובר שבוע אחר שבוע"
 english_slug: amazing-journey-embryo-development-week-by-week
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags: הריון, עובר, התפתחות, ביולוגיה, בריאות האישה
 ---
 # מסע מדהים: התפתחות העובר שבוע אחר שבוע

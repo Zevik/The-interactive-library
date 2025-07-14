@@ -1,7 +1,7 @@
 ---
 title: "מחזור המים בטבע: מסע קסום על פני כדור הארץ"
 english_slug: water-cycle-in-nature-earths-water-journey
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - מחזור המים
   - הידרולוגיה

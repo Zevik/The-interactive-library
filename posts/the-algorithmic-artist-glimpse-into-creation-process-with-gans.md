@@ -1,7 +1,7 @@
 ---
 title: "האמן האלגוריתמי: מסע יצירה עם GANs"
 english_slug: the-algorithmic-artist-glimpse-into-creation-process-with-gans
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags: [בינה מלאכותית, רשתות עצביות, GANs, אמנות גנרטיבית, למידת מכונה]
 ---
 # האמן האלגוריתמי: מסע יצירה עם GANs

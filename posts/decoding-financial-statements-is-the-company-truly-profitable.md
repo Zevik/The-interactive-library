@@ -1,7 +1,7 @@
 ---
 title: "פענוח דוחות כספיים: הצלילה העמוקה אל המספרים"
 english_slug: decoding-financial-statements-is-the-company-truly-profitable
-category: "מדעי החברה / כלכלה ופיננסים"
+category: "כלכלה"
 tags: [דוחות כספיים, מאזן, דוח רווח והפסד, תזרים מזומנים, ניתוח פיננסי]
 ---
 # פענוח דוחות כספיים: הצלילה העמוקה אל המספרים

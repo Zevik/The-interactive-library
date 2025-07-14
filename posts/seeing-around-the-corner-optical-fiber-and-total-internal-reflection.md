@@ -1,7 +1,7 @@
 ---
 title: "לראות מסביב לפינה: קסם האור בסיבים אופטיים והחזרת אור מלאה"
 english_slug: seeing-around-the-corner-optical-fiber-and-total-internal-reflection
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: [אופטיקה, החזרת אור, סיב אופטי, זווית קריטית, שבירת אור]
 ---
 # לראות מסביב לפינה: קסם האור בסיבים אופטיים

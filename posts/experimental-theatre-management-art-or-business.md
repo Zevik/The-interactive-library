@@ -1,7 +1,7 @@
 ---
 title: "תיאטרון ניסיוני: ניהול במתח שבין אמנות לעסקים"
 english_slug: experimental-theatre-management-art-or-business
-category: "ניהול ועסקים / ניהול"
+category: "ניהול"
 tags:
   - ניהול אמנות
   - תיאטרון

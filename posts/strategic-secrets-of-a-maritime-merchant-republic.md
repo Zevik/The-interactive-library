@@ -1,7 +1,7 @@
 ---
 title: "האימפריה הנסתרת: אסטרטגיית ההצלחה של רפובליקת סוחרים ימית"
 english_slug: strategic-secrets-of-a-maritime-merchant-republic
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - רפובליקה מסחרית
   - ונציה

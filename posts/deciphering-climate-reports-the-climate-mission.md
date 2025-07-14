@@ -1,7 +1,7 @@
 ---
 title: "לפענח את דוחות האקלים: המשימה האקלימית"
 english_slug: deciphering-climate-reports-the-climate-mission
-category: "מדעי הסביבה / כללי"
+category: "כללי"
 tags: IPCC, שינוי אקלים, קריאת דוחות, הבנת נתונים, מדע האקלים, סימולציה
 ---
 # לפענח את דוחות האקלים: המשימה האקלימית

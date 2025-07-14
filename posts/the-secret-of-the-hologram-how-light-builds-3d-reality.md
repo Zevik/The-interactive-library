@@ -1,7 +1,7 @@
 ---
 title: "סוד ההולוגרמה: כיצד האור בונה מציאות תלת-ממדית?"
 english_slug: the-secret-of-the-hologram-how-light-builds-3d-reality
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - הולוגרפיה
   - אופטיקה

@@ -1,7 +1,7 @@
 ---
 title: "קסם המדבר: איך נוצרים סלעי פטריה?"
 english_slug: how-mushroom-rocks-are-formed
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - סחיפה
   - ארוזיה

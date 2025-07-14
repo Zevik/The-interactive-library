@@ -1,7 +1,7 @@
 ---
 title: "השפעת הגנת הדייר: סימולציית שוק שכירות דינמית"
 english_slug: impact-of-tenant-protection-on-rental-market-simulation
-category: "מדעי החברה / כלכלה ופיננסים"
+category: "כלכלה"
 tags:
   - שוק השכירות
   - הגנת הדייר

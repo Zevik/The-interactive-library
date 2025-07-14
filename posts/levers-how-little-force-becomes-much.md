@@ -1,7 +1,7 @@
 ---
 title: "מנופים: סוד הכוח שמסתתר בכל פינה!"
 english_slug: levers-how-little-force-becomes-much
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - מנוף
   - כוח

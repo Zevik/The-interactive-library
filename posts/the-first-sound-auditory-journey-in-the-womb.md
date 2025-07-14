@@ -1,7 +1,7 @@
 ---
 title: "המסע הקולי הראשון: שמיעה, צלילים וקשר ברחם"
 english_slug: the-first-sound-auditory-journey-in-the-womb
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags:
   - התפתחות עוברית
   - שמיעה

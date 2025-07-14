@@ -1,7 +1,7 @@
 ---
 title: "הצצה לקרביים: כך גלאי העשן שלך 'רואה' שריפה"
 english_slug: what-your-smoke-detector-sees-ionization-vs-photoelectric
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - גלאי עשן
   - בטיחות אש

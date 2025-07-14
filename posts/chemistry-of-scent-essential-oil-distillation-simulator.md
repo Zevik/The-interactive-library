@@ -1,7 +1,7 @@
 ---
 title: "מסע אל לב הריח: סימולטור זיקוק שמנים אתריים"
 english_slug: chemistry-of-scent-essential-oil-distillation-simulator
-category: "מדעים מדויקים / כימיה"
+category: "כימיה"
 tags: שמנים אתריים, זיקוק, כימיה אורגנית, תהליכים תעשייתיים, צמחי מרפא, מעבדה
 ---
 # מסע אל לב הריח: סימולטור זיקוק שמנים אתריים

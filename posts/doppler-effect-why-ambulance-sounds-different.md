@@ -1,7 +1,7 @@
 ---
 title: "אפקט דופלר: הצליל שמשתנה עם התנועה"
 english_slug: doppler-effect-why-ambulance-sounds-different
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - פיזיקה
   - גלים

@@ -1,7 +1,7 @@
 ---
 title: "מקלט אקלימי: סימולטור הישרדות מינים"
 english_slug: climate-refuge-building-species-survival-model
-category: "מדעי הסביבה / אקולוגיה וקיימות"
+category: "אקולוגיה"
 tags:
   - שינויי אקלים
   - אקולוגיה

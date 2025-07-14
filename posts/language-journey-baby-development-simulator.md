@@ -1,7 +1,7 @@
 ---
 title: "מסע המילים: סימולטור קסם רכישת השפה אצל תינוקות"
 english_slug: language-journey-baby-development-simulator
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags:
   - התפתחות השפה
   - תינוקות

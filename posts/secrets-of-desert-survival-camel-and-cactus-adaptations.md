@@ -1,7 +1,7 @@
 ---
 title: "סודות ההישרדות במדבר: התאמות של גמל וקקטוס"
 english_slug: secrets-of-desert-survival-camel-and-cactus-adaptations
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - התאמה לסביבה
   - מדבר

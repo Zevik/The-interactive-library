@@ -1,7 +1,7 @@
 ---
 title: "מנהל מנגרובים: הצלת יערות הגשם של הים"
 english_slug: mangrove-manager-saving-the-sea-rainforests
-category: "מדעי הסביבה / אקולוגיה וקיימות"
+category: "אקולוגיה"
 tags:
   - מנגרובים
   - אקולוגיה ימית

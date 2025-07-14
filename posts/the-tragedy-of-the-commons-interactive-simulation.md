@@ -1,7 +1,7 @@
 ---
 title: "המאגר המתדלדל: סימולציה אינטראקטיבית של הטרגדייה של המאגר המשותף"
 english_slug: the-tragedy-of-the-commons-interactive-simulation
-category: "מדעי החברה / כלכלה התנהגותית"
+category: "כלכלה התנהגותית"
 tags:
   - טרגדיית המאגר המשותף
   - ניהול משאבים

@@ -1,7 +1,7 @@
 ---
 title: "קסם העיגול והסכנה שבדיוק: טעויות חישוב במדע"
 english_slug: rounding-errors-in-scientific-calculations
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags: [שגיאות עיגול, אריתמטיקה של נקודה צפה, חישובים נומריים, דיוק, יציבות נומרית]
 ---
 <!DOCTYPE html>

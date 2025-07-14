@@ -1,7 +1,7 @@
 ---
 title: "המסע הסטטיסטי: גילוי חוק המספרים הגדולים בקוביית המזל הווירטואלית"
 english_slug: statistical-magic-law-of-large-numbers-virtual-dice
-category: "מדעים מדויקים / מתמטיקה"
+category: "מתמטיקה"
 tags: [Probability, Statistics, Law of Large Numbers, Simulation, Dice]
 ---
 # המסע הסטטיסטי: גילוי חוק המספרים הגדולים בקוביית המזל הווירטואלית

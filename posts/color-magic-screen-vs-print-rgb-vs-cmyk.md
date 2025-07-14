@@ -1,7 +1,7 @@
 ---
 title: "קסם הצבע: מסך מול דפוס (RGB נגד CMYK)"
 english_slug: color-magic-screen-vs-print-rgb-vs-cmyk
-category: "אמנות ועיצוב / עיצוב גרפי"
+category: "עיצוב גרפי"
 tags:
   - צבע
   - RGB

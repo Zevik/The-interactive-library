@@ -1,7 +1,7 @@
 ---
 title: "פיזיקה בשלג: סימולציית מפולות אינטראקטיבית"
 english_slug: physics-in-snow-interactive-avalanche-simulation
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - מפולת שלג
   - פיזיקה

@@ -1,7 +1,7 @@
 ---
 title: "כימיה של קסם הצבע: מסע בזמן למעבדת פיגמנטים היסטורית"
 english_slug: color-creation-chemistry-journey-to-19th-century-lab
-category: "מדעים מדויקים / כימיה"
+category: "כימיה"
 tags:
   - כימיה
   - היסטוריה של המדע

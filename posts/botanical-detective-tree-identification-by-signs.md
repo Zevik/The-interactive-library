@@ -1,7 +1,7 @@
 ---
 title: "הבלש הבוטני: זיהוי עצים לפי סימנים"
 english_slug: botanical-detective-tree-identification-by-signs
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags: עצים, זיהוי, עלים, פירות, קליפה, בוטניקה, חידון, אינטראקטיבי
 ---
 # הבלש הבוטני: זיהוי עצים לפי סימנים

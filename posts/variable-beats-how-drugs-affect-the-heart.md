@@ -1,7 +1,7 @@
 ---
 title: "פעימות קצב: מסע אל השפעת חומרים על הלב"
 english_slug: variable-beats-how-drugs-affect-the-heart
-category: "מדעי החיים / פיזיולוגיה"
+category: "פיזיולוגיה"
 tags:
   - סמים
   - לב

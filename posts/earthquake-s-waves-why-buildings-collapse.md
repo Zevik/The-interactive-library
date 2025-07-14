@@ -1,7 +1,7 @@
 ---
 title: "גל ההרס: איך גלי S ברעידות אדמה מפילים מבנים?"
 english_slug: earthquake-s-waves-why-buildings-collapse
-category: "מדעי הסביבה / גיאולוגיה"
+category: "גיאולוגיה"
 tags:
   - גלים רוחביים
   - רעידת אדמה

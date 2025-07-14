@@ -1,7 +1,7 @@
 ---
 title: "מנוע גרעיני לחלל: דלק גרעיני להגעה מהירה למאדים"
 english_slug: nuclear-engine-space-nuclear-fuel-fast-travel-mars
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - הנעה גרעינית
   - חלל

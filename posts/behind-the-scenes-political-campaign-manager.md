@@ -1,7 +1,7 @@
 ---
 title: "מאחורי הקלעים: אמן הקמפיין הפוליטי"
 english_slug: behind-the-scenes-political-campaign-manager
-category: "מדעי החברה / מדע המדינה ומדיניות ציבורית"
+category: "מדע המדינה"
 tags: [פוליטיקה, קמפיין בחירות, אסטרטגיה, סימולציה, ייעוץ פוליטי, משחק]
 ---
 <div id="app">

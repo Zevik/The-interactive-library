@@ -1,7 +1,7 @@
 ---
 title: "סימולציית חברת תרופות: המסע מהמעבדה לשוק"
 english_slug: pharma-company-simulation-lab-to-market
-category: "ניהול ועסקים / ניהול"
+category: "ניהול"
 tags:
   - תעשיית התרופות
   - ניהול עסקי

@@ -1,7 +1,7 @@
 ---
 title: "קסם ההתפלה: איך להפוך מי ים למים ראויים לשתייה בעזרת אוסמוזה הפוכה"
 english_slug: water-desalination-how-reverse-osmosis-works
-category: "מדעים מדויקים / כימיה"
+category: "כימיה"
 tags:
   - התפלה
   - אוסמוזה הפוכה

@@ -1,7 +1,7 @@
 ---
 title: "המיקרוביום של העור: שותפים סמויים לבריאות"
 english_slug: skin-microbiome-under-the-surface
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags: [מיקרוביום, עור, חיידקים, אקולוגיה, בריאות, סימולציה]
 ---
 <div class="intro-section">

@@ -1,7 +1,7 @@
 ---
 title: "מסע בזמן אל הבמה: מיוון ועד שייקספיר"
 english_slug: time-travel-to-the-stage-from-greece-to-shakespeare
-category: "אמנות ועיצוב / אמנויות הבמה"
+category: "אמנויות הבמה"
 tags:
   - תיאטרון
   - היסטוריה

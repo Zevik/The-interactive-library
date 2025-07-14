@@ -1,7 +1,7 @@
 ---
 title: "כלים שלובים בהיסטוריה: מסע מרתק בעקבות כלי החקלאות"
 english_slug: tools-of-history-journey-through-agricultural-tools
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags: [כלי חקלאות היסטוריים, ארכיאולוגיה, היסטוריה של הטכנולוגיה, התפתחות החקלאות, עבודה חקלאית, חידון]
 ---
 <div class="container">

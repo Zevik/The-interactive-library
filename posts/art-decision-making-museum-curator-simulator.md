@@ -1,7 +1,7 @@
 ---
 title: "אמנות של החלטות: סימולטור אוצר מוזיאון"
 english_slug: art-decision-making-museum-curator-simulator
-category: "מדעי החברה / כלכלה התנהגותית"
+category: "כלכלה התנהגותית"
 tags:
   - קבלת החלטות
   - אומנות

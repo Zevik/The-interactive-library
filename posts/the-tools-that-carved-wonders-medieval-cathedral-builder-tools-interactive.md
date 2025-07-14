@@ -1,7 +1,7 @@
 ---
 title: "הכלים שפיסלו פלאים: מסע אינטראקטיבי אל ארגז הכלים של בנאי קתדרלות ימי הביניים"
 english_slug: the-tools-that-carved-wonders-medieval-cathedral-builder-tools-interactive
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - ימי הביניים
   - קתדרלות

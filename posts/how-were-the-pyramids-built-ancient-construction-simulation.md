@@ -1,7 +1,7 @@
 ---
 title: "תעלומת הפירמידות: נבנה אותן בעצמנו (כמעט!)"
 english_slug: how-were-the-pyramids-built-ancient-construction-simulation
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - פירמידות
   - מצרים העתיקה

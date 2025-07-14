@@ -1,7 +1,7 @@
 ---
 title: "הרפתקת כלי הצורף: זיהוי אינטראקטיבי"
 english_slug: jewelers-tools-adventure-interactive-id
-category: "אמנות ועיצוב / מלאכות יד"
+category: "מלאכות יד"
 tags:
   - צורפות
   - כלי עבודה

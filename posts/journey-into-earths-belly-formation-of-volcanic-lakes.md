@@ -1,7 +1,7 @@
 ---
 title: "מסע אל בטן האדמה: היווצרות אגמי לוע"
 english_slug: journey-into-earths-belly-formation-of-volcanic-lakes
-category: "מדעי הסביבה / גיאולוגיה"
+category: "גיאולוגיה"
 tags: [הרי געש, אגמים, וולקנולוגיה, תהליכים גיאולוגיים, קלדרה]
 ---
 <h1>מסע אל בטן האדמה: היווצרות אגמי לוע</h1>

@@ -1,7 +1,7 @@
 ---
 title: "מים מתוקים מתחת לקרח: התגלית המפתיעה באנטארקטיקה"
 english_slug: freshwater-under-ice-antarctica-discovery
-category: "מדעי הסביבה / אוקיינוגרפיה"
+category: "אוקיינוגרפיה"
 tags:
   - אנטארקטיקה
   - מדפי קרח

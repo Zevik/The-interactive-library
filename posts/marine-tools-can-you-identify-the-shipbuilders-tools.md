@@ -1,7 +1,7 @@
 ---
 title: "סדנת הבונה: האם תזהה את הכלים העתיקים?"
 english_slug: marine-tools-can-you-identify-the-shipbuilders-tools
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - בניית ספינות
   - עידן המפרש

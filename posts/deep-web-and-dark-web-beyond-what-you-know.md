@@ -1,7 +1,7 @@
 ---
 title: "האינטרנט העמוק והרשת האפלה: מעבר למה שאתם מכירים"
 english_slug: deep-web-and-dark-web-beyond-what-you-know
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - אינטרנט
   - רשת

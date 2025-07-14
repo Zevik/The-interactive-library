@@ -1,7 +1,7 @@
 ---
 title: "מסע אל הלא נודע: סופרפוזיציה ושזירה קוונטית"
 english_slug: quantum-superposition-and-entanglement-explained
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - פיזיקה קוונטית
   - סופרפוזיציה

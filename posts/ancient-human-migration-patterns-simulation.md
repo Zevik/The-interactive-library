@@ -1,7 +1,7 @@
 ---
 title: "מסע האדם הקדמון: הדמיית דפוסי הגירה"
 english_slug: ancient-human-migration-patterns-simulation
-category: "מדעי הרוח / ארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - הגירה אנושית
   - פרהיסטוריה

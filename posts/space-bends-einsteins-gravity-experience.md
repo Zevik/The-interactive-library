@@ -1,7 +1,7 @@
 ---
 title: "המרחב מתעקם: חוויית כוח המשיכה של איינשטיין"
 english_slug: space-bends-einsteins-gravity-experience
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - תורת היחסות הכללית
   - כוח משיכה

@@ -1,7 +1,7 @@
 ---
 title: "חשיפה לאוזן: הדמיית מיסוך פסיכואקוסטי"
 english_slug: psychoacoustic-masking-simulation
-category: "אמנות ועיצוב / מוזיקה"
+category: "מוזיקה"
 tags:
   - מיסוך
   - שמיעה

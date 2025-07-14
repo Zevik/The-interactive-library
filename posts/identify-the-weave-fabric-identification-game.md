@@ -1,7 +1,7 @@
 ---
 title: "זהה את האריג: מסע אינטראקטיבי לזיהוי בדים"
 english_slug: identify-the-weave-fabric-identification-game
-category: "אמנות ועיצוב / אופנה וטקסטיל"
+category: "אופנה וטקסטיל"
 tags: אריגה, בד, טקסטיל, זיהוי בדים, סוגי אריגה
 ---
 

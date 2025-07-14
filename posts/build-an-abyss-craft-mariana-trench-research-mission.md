@@ -1,7 +1,7 @@
 ---
 title: "מסע אל התהום: בנה חללית מחקר לשקע מריאנה"
 english_slug: build-an-abyss-craft-mariana-trench-research-mission
-category: "מדעי הסביבה / אוקיינוגרפיה"
+category: "אוקיינוגרפיה"
 tags:
   - שקע מריאנה
   - חקר ימים

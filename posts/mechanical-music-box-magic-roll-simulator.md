@@ -1,7 +1,7 @@
 ---
 title: "תיבת הקסם המכנית: סימולטור גלילי מוזיקה"
 english_slug: mechanical-music-box-magic-roll-simulator
-category: "אמנות ועיצוב / מוזיקה"
+category: "מוזיקה"
 tags:
   - תיבת נגינה
   - מוזיקה אוטומטית

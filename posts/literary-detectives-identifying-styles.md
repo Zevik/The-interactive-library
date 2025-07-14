@@ -1,7 +1,7 @@
 ---
 title: "בלשים ספרותיים: פענוח סגנונות"
 english_slug: literary-detectives-identifying-styles
-category: "מדעי הרוח / ספרות וכתיבה"
+category: "ספרות"
 tags:
   - סגנונות ספרותיים
   - רומנטיקה

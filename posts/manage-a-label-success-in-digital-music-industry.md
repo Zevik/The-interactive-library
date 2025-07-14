@@ -1,7 +1,7 @@
 ---
 title: "מנהלים לייבל: הצלחה בתעשיית המוזיקה הדיגיטלית"
 english_slug: manage-a-label-success-in-digital-music-industry
-category: "ניהול ועסקים / ניהול"
+category: "ניהול"
 tags:
   - תעשיית המוזיקה
   - יזמות

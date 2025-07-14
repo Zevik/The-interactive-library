@@ -1,7 +1,7 @@
 ---
 title: "מסע המים הגדול: בונים אקוודוקט רומי וחושפים את סוד השיפוע"
 english_slug: building-roman-aqueduct-the-correct-slope-secret
-category: "טכנולוגיה / הנדסה"
+category: "הנדסה"
 tags:
   - אקוודוקט
   - רומא העתיקה

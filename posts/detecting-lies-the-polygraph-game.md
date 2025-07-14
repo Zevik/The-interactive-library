@@ -1,7 +1,7 @@
 ---
 title: "פענוח עוררות: משחק הפוליגרף המדעי"
 english_slug: detecting-lies-the-polygraph-game
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags:
   - פוליגרף
   - זיהוי שקרים

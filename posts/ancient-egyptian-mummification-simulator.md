@@ -1,7 +1,7 @@
 ---
 title: "מסע אל הנצח: סימולטור טקס החניטה המצרי"
 english_slug: ancient-egyptian-mummification-simulator
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - מצרים העתיקה
   - חניטה

@@ -1,7 +1,7 @@
 ---
 title: "סוד החוסן הרומי: הקשת שמחזיקה אימפריה"
 english_slug: secret-of-the-roman-bridge-how-arches-hold-everything
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - רומא העתיקה
   - הנדסה

@@ -1,7 +1,7 @@
 ---
 title: "כשקרקע בולעת: מסע אינטראקטיבי לבטן האדמה לחקר בולענים"
 english_slug: when-ground-swallows-simulating-sinkhole-formation
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags: [בולענים, קרסט, גיאולוגיה, מי תהום, המסה, סימולציה]
 ---
 

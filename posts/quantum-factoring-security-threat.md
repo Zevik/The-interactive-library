@@ -1,7 +1,7 @@
 ---
 title: "פירוק לגורמים קוונטי: הסוד ששובר את ההצפנה"
 english_slug: quantum-factoring-security-threat
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - מחשוב קוונטי
   - אלגוריתם שור

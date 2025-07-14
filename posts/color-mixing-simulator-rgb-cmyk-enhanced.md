@@ -1,7 +1,7 @@
 ---
 title: "קסם הצבעים: אור (RGB) מול דיו (CMYK) - סימולטור אינטראקטיבי"
 english_slug: color-mixing-simulator-rgb-cmyk-enhanced
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: [אינטראקטיבי, סימולציה, צבע, RGB, CMYK, הדמיה, למידה חווייתית]
 ---
 # קסם הצבעים: אור (RGB) מול דיו (CMYK)

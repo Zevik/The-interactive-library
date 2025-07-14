@@ -1,7 +1,7 @@
 ---
 title: "המסע המופלא של פרפר המונרך: נדידה רב-דורית"
 english_slug: the-wonderful-journey-of-the-monarch-butterfly-multi-generational-migration
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - נדידה
   - פרפרים

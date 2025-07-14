@@ -1,7 +1,7 @@
 ---
 title: "משחק הרכבת סונטה שייקספירית"
 english_slug: build-a-shakespearean-sonnet-game
-category: "מדעי הרוח / ספרות וכתיבה"
+category: "ספרות"
 tags: סונטה, שייקספיר, שירה, מבנה ספרותי, חרוז
 ---
 # משחק הרכבת סונטה שייקספירית

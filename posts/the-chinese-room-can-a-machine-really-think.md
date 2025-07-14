@@ -1,7 +1,7 @@
 ---
 title: "החדר הסיני: האם מכונה יכולה באמת לחשוב?"
 english_slug: the-chinese-room-can-a-machine-really-think
-category: "מדעי הרוח / פילוסופיה"
+category: "פילוסופיה"
 tags: [פילוסופיה, בינה מלאכותית, סרל, החדר הסיני, תודעה, קוגניציה]
 ---
 <div class="chinese-room-app">

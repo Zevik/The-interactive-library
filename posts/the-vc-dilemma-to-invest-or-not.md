@@ -1,7 +1,7 @@
 ---
 title: "הדילמה של קרן הון סיכון: להשקיע או לא?"
 english_slug: the-vc-dilemma-to-invest-or-not
-category: "ניהול ועסקים / ניהול"
+category: "ניהול"
 tags:
   - הון סיכון
   - סטארט-אפ

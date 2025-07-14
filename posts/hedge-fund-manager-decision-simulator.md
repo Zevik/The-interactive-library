@@ -1,7 +1,7 @@
 ---
 title: "מנהל קרן גידור לרגע: האם תצליח לגבור על השוק והפסיכולוגיה?"
 english_slug: hedge-fund-manager-decision-simulator
-category: "מדעי החברה / כלכלה התנהגותית"
+category: "כלכלה התנהגותית"
 tags:
   - קרן גידור
   - קבלת החלטות

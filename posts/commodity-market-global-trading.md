@@ -1,7 +1,7 @@
 ---
 title: "שוק הסחורות: זירת מסחר גלובלית"
 english_slug: commodity-market-global-trading
-category: "מדעי החברה / כלכלה ופיננסים"
+category: "כלכלה"
 tags:
   - סחורות
   - בורסה

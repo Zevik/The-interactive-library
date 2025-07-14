@@ -1,7 +1,7 @@
 ---
 title: "להציל שפה: סימולטור קבלת החלטות בשימור לשוני"
 english_slug: saving-a-language-linguistic-preservation-decision-simulator
-category: "מדעי הרוח / בלשנות"
+category: "בלשנות"
 tags: ["שפות בסכנה", "שימור שפות", "בלשנות שדה", "קבלת החלטות", "אנתרופולוגיה"]
 ---
 # להציל שפה: מסע אל לב המאמץ לשימור

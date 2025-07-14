@@ -1,7 +1,7 @@
 ---
 title: "כשמחשבים חושבים כמו מוח: מבט על חישוב נוירומורפי"
 english_slug: when-computers-think-like-brains-neuromorphic-computing
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - חישוב נוירומורפי
   - בינה מלאכותית

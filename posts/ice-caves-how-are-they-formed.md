@@ -1,7 +1,7 @@
 ---
 title: "מערות קרח: איך הן נוצרות?"
 english_slug: ice-caves-how-are-they-formed
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - מערות קרח
   - קרחונים

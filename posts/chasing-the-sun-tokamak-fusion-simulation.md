@@ -1,7 +1,7 @@
 ---
 title: "מרדפים אחרי השמש: סימולציית היתוך בטוקמק"
 english_slug: chasing-the-sun-tokamak-fusion-simulation
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - כור היתוך גרעיני
   - טוקמק

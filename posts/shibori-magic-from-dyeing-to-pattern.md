@@ -1,7 +1,7 @@
 ---
 title: "שיבורי: המסע הקסום מצביעה פשוטה לדפוס מרהיב"
 english_slug: shibori-magic-from-dyeing-to-pattern
-category: "אמנות ועיצוב / כללי"
+category: "כללי"
 tags:
   - שיבורי
   - טקסטיל

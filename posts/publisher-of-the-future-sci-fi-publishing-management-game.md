@@ -1,7 +1,7 @@
 ---
 title: "מו\"ל העתיד: המסע אל מעבר למילים"
 english_slug: publisher-of-the-future-sci-fi-publishing-management-game
-category: "ניהול ועסקים / ניהול"
+category: "ניהול"
 tags:
   - הוצאה לאור
   - מדע בדיוני

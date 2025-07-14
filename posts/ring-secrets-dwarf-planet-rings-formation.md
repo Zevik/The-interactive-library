@@ -1,7 +1,7 @@
 ---
 title: "סודות טבעתיים: הריקוד הכבידתי שיוצר טבעות סביב כוכבי לכת ננסיים"
 english_slug: ring-secrets-dwarf-planet-rings-formation
-category: "מדעים מדויקים / אסטרונומיה"
+category: "אסטרונומיה"
 tags:
   - האומיה
   - טבעות פלנטריות

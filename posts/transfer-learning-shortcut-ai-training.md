@@ -1,7 +1,7 @@
 ---
 title: "למידת העברה: כוח העבר ליצירת AI יעיל יותר"
 english_slug: transfer-learning-shortcut-ai-training
-category: "טכנולוגיה / בינה מלאכותית"
+category: "בינה מלאכותית"
 tags:
   - למידת מכונה
   - למידת העברה

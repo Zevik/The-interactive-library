@@ -1,7 +1,7 @@
 ---
 title: "המסע המופלא של הסלעים - סימולציה אינטראקטיבית"
 english_slug: interactive-rock-cycle-model
-category: "מדעי הסביבה / גיאולוגיה"
+category: "גיאולוגיה"
 tags:
   - מדע
   - כדור הארץ

@@ -1,7 +1,7 @@
 ---
 title: "קשב ברשתות עצביות: כך מודלים 'מתמקדים'"
 english_slug: attention-in-neural-networks-how-models-focus
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - רשתות עצביות
   - קשב

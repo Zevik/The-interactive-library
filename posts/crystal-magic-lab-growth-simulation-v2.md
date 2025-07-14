@@ -1,7 +1,7 @@
 ---
 title: "קסם הגבישים: סימולטור גידול קריסטלים דינמי"
 english_slug: crystal-magic-lab-growth-simulation-v2
-category: "מדעים מדויקים / כימיה"
+category: "כימיה"
 tags: [גבישים, גידול גבישים, סימולציה, מעבדה, כימיה פיזיקלית, קריסטליזציה, נוקלאציה]
 ---
 <div class="simulation-title">

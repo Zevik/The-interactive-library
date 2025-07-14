@@ -1,7 +1,7 @@
 ---
 title: "אבולוציה משותפת: סימולטור הריקוד האבולוציוני"
 english_slug: co-evolution-dance-of-life-simulator
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
 - ביולוגיה
 - אבולוציה

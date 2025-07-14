@@ -1,7 +1,7 @@
 ---
 title: "המערכת הלימבית: הגשר בין רגש לזיכרון"
 english_slug: the-limbic-system-bridge-between-emotion-memory
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags: [מוח, מערכת לימבית, רגשות, זיכרון]
 ---
 # המערכת הלימבית: הגשר הסודי בין רגש לזיכרון

@@ -1,7 +1,7 @@
 ---
 title: "הסימפוניה הנסתרת: סוד הדיונות המזמרות נחשף"
 english_slug: the-acoustic-secret-of-singing-dunes
-category: "מדעי הסביבה / כדור הארץ"
+category: "מדעי כדור הארץ"
 tags:
   - דיונות חול
   - חול מזמר

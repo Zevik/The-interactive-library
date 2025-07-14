@@ -1,7 +1,7 @@
 ---
 title: "מסע אל לב עולם היין: איך להתאים יין לארוחת שף?"
 english_slug: wine-expert-pairing-complex-meal
-category: "מדעי הצרכן"
+category: "כלכלת הצרכן"
 tags:
   - יין
   - סומלייה

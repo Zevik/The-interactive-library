@@ -1,7 +1,7 @@
 ---
 title: "לבנות את הדרקאר: מסע אינטראקטיבי אל סודות בניית ספינות ויקינגים"
 english_slug: building-the-drakkar-interactive-journey
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags: [ויקינגים, ספינות, דרקאר, היסטוריה ימית, טכנולוגיה עתיקה, בניית ספינות]
 ---
 <div class="intro-text">

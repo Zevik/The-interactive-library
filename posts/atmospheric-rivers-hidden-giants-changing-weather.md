@@ -1,7 +1,7 @@
 ---
 title: "נהרות אטמוספיריים: ענקי הלחות שמעצבים מחדש את מזג האוויר"
 english_slug: atmospheric-rivers-hidden-giants-changing-weather
-category: "מדעי הסביבה / מדעי האטמוספרה"
+category: "מדעי האטמוספרה"
 tags:
   - נהרות אטמוספיים
   - גשם קיצוני

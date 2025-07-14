@@ -1,7 +1,7 @@
 ---
 title: "אוצרות מהיער: מסע לזיהוי צמחי בר"
 english_slug: forest-treasures-journey-to-identifying-wild-plants
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - צמחים אכילים
   - ליקוט

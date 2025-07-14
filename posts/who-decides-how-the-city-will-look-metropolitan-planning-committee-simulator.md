@@ -1,7 +1,7 @@
 ---
 title: "מי קובע איך תיראה העיר? סימולטור ועדת תכנון"
 english_slug: who-decides-how-the-city-will-look-metropolitan-planning-committee-simulator
-category: "מדעי החברה / תכנון עירוני"
+category: "תכנון עירוני"
 tags:
   - תכנון עירוני
   - קבלת החלטות

@@ -1,7 +1,7 @@
 ---
 title: "מתכננים משימה לאסטרואיד"
 english_slug: designing-an-asteroid-mission
-category: "טכנולוגיה / אווירונאוטיקה וחלל"
+category: "אווירונאוטיקה וחלל"
 tags:
   - אסטרואידים
   - רובוטיקה

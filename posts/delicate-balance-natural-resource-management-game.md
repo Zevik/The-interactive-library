@@ -1,7 +1,7 @@
 ---
 title: "איזון עדין: משחק ניהול משאבי טבע"
 english_slug: delicate-balance-natural-resource-management-game
-category: "מדעי הסביבה / כללי"
+category: "כללי"
 tags:
   - משאבי טבע
   - קיימות

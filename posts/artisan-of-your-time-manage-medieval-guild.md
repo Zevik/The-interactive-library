@@ -1,7 +1,7 @@
 ---
 title: "אמן בזמנך: נהל גילדת ימי הביניים"
 english_slug: artisan-of-your-time-manage-medieval-guild
-category: "מדעי החברה / היסטוריה כלכלית"
+category: "היסטוריה כלכלית"
 tags:
   - ימי הביניים
   - גילדות

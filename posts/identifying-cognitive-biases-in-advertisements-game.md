@@ -1,7 +1,7 @@
 ---
 title: "לזהות כשלים קוגניטיביים בפרסומות: משחק חשיבה ביקורתית"
 english_slug: identifying-cognitive-biases-in-advertisements-game
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags:
   - כשלים קוגניטיביים
   - פרסום

@@ -1,7 +1,7 @@
 ---
 title: "מסע אפי: לידתה מחדש של העצם - כך מתאחה שבר"
 english_slug: epic-journey-bone-rebirth-how-fracture-heals
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - עצם
   - שבר

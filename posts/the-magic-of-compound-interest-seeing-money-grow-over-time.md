@@ -1,7 +1,7 @@
 ---
 title: "קסם הריבית דריבית: המנוע החזק ביותר לצמיחה פיננסית"
 english_slug: the-magic-of-compound-interest-seeing-money-grow-over-time
-category: "מדעי החברה / כלכלה ופיננסים"
+category: "כלכלה"
 tags:
   - ריבית דריבית
   - ריבית פשוטה

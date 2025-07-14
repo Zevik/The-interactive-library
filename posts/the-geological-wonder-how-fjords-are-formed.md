@@ -1,7 +1,7 @@
 ---
 title: "הפלא הגאולוגי: איך נוצרים הפיורדים?"
 english_slug: the-geological-wonder-how-fjords-are-formed
-category: "מדעי הסביבה / גאוגרפיה"
+category: "גאוגרפיה"
 tags:
   - גאולוגיה
   - גאוגרפיה

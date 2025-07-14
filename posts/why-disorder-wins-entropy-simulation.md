@@ -1,7 +1,7 @@
 ---
 title: "למה הבלגן מנצח? סימולציה של אנטרופיה"
 english_slug: why-disorder-wins-entropy-simulation
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - אנטרופיה
   - תרמודינמיקה

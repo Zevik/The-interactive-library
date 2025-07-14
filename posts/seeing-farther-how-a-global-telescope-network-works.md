@@ -1,7 +1,7 @@
 ---
 title: "העין הגדולה ביותר: איך רשת טלסקופים עולמית חושפת את סודות היקום?"
 english_slug: seeing-farther-how-a-global-telescope-network-works
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
 - אסטרונומיה
 - טלסקופים

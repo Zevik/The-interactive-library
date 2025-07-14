@@ -1,7 +1,7 @@
 ---
 title: "הרי געש בוציים: הצצה להתפרצות הקרה מהמעמקים"
 english_slug: mud-volcanoes-cold-eruption-from-the-depths
-category: "מדעי הסביבה / גיאולוגיה"
+category: "גיאולוגיה"
 tags:
   - הרי געש
   - גיאולוגיה

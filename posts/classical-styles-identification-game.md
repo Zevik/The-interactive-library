@@ -1,7 +1,7 @@
 ---
 title: "מזהים את הסגנון: בארוק, קלאסי או רומנטי?"
 english_slug: classical-styles-identification-game
-category: "אמנות ועיצוב / מוזיקה"
+category: "מוזיקה"
 tags:
   - מוזיקה קלאסית
   - היסטוריה של המוזיקה

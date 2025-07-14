@@ -1,7 +1,7 @@
 ---
 title: "מסע סוחף אל בטן האדמה: סודות הסנוטס של יוקטן נחשפים"
 english_slug: immersive-journey-into-earth-uncovering-yucatan-cenotes
-category: "מדעי הסביבה / גאוגרפיה"
+category: "גאוגרפיה"
 tags:
   - סנוטס
   - יוקטן

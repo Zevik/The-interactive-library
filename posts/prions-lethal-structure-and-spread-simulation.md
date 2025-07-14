@@ -1,7 +1,7 @@
 ---
 title: "פריונים: הריקוד הקטלני של שינוי צורה"
 english_slug: prions-lethal-structure-and-spread-simulation
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - פריונים
   - חלבונים

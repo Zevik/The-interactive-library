@@ -1,7 +1,7 @@
 ---
 title: "ניהול משבר: להציל חיים אחרי רעידת אדמה"
 english_slug: crisis-management-saving-lives-after-earthquake
-category: "ניהול ועסקים / ניהול"
+category: "ניהול"
 tags: [רעידת אדמה, משבר הומניטרי, סיוע בינלאומי, קבלת החלטות, הערכת מצב]
 ---
 # מוקד שליטה: ניהול משבר רעידת אדמה

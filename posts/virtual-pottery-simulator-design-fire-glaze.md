@@ -1,7 +1,7 @@
 ---
 title: "מסע וירטואלי באמנות הקדרות: מחימר ליצירה מוגמרת"
 english_slug: virtual-pottery-simulator-design-fire-glaze
-category: "אמנות ועיצוב / כללי"
+category: "כללי"
 tags: ["קדרות", "אובניים", "חרס", "אמנות", "יצירה", "סימולטור"]
 ---
 <header class="page-header">

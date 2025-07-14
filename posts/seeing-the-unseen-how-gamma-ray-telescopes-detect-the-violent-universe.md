@@ -1,7 +1,7 @@
 ---
 title: "לראות את הבלתי נראה: סימולציה אינטראקטיבית של טלסקופ קרני גמא"
 english_slug: seeing-the-unseen-how-gamma-ray-telescopes-detect-the-violent-universe
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: ["קרני גמא", "טלסקופים", "אסטרופיזיקה", "קרינת צ'רנקוב", "יקום אנרגטי", "סימולציה"]
 ---
 

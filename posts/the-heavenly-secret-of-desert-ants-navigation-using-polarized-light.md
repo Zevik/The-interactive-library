@@ -1,7 +1,7 @@
 ---
 title: "הסוד השמימי של נמלי המדבר: ניווט באמצעות אור מקוטב"
 english_slug: the-heavenly-secret-of-desert-ants-navigation-using-polarized-light
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags: ["ביולוגיה התנהגותית", "ניווט", "נמלים", "אור מקוטב", "מדבר"]
 ---
 # הסוד השמימי של נמלי המדבר: ניווט באמצעות אור מקוטב

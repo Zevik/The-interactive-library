@@ -1,7 +1,7 @@
 ---
 title: "קצב עולמי: אתגר זיהוי סגנונות ריקוד טקסי"
 english_slug: global-dance-ritual-style-identification-challenge
-category: "מדעי החברה / סוציולוגיה ואנתרופולוגיה"
+category: "סוציולוגיה"
 tags:
   - ריקוד
   - טקס

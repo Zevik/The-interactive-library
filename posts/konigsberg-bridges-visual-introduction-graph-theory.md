@@ -1,7 +1,7 @@
 ---
 title: "הגשרים של קניגסברג: מסע ויזואלי לתורת הגרפים"
 english_slug: konigsberg-bridges-visual-introduction-graph-theory
-category: "מדעים מדויקים / מתמטיקה"
+category: "מתמטיקה"
 tags:
   - תורת הגרפים
   - בעיית הגשרים של קניגסברג

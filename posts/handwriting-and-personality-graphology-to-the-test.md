@@ -1,7 +1,7 @@
 ---
 title: "כתב יד ואישיות: גרפולוגיה במבחן"
 english_slug: handwriting-and-personality-graphology-to-the-test
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags:
   - גרפולוגיה
   - פסאודו-מדע

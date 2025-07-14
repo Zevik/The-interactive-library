@@ -1,7 +1,7 @@
 ---
 title: "להיות איל חלל: מאסטרטגיה על הקרקע להצלחה במסלול"
 english_slug: becoming-a-space-mogul-rocket-and-satellite-management-simulation
-category: "מדעי החברה / כלכלה ופיננסים"
+category: "כלכלה"
 tags:
   - חלל
   - יזמות

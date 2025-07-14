@@ -1,7 +1,7 @@
 ---
 title: "ריגוש הכבידה: מסע אל המרחב-זמן המעוקם של איינשטיין"
 english_slug: spacetime-curvature-understanding-einsteins-gravity
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - מרחב-זמן
   - יחסות כללית

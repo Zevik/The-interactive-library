@@ -1,7 +1,7 @@
 ---
 title: "בונים עבר: ארכיאולוגיה ניסויית בפעולה"
 english_slug: building-the-past-experimental-archaeology-in-action
-category: "מדעי הרוח / היסטוריה וארכאולוגיה"
+category: "ארכאולוגיה"
 tags:
   - ארכיאולוגיה ניסויית
   - שחזור היסטורי

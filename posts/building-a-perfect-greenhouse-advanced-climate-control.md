@@ -1,7 +1,7 @@
 ---
 title: "לבנות חממה מושלמת: בקרת אקלים מתקדמת"
 english_slug: building-a-perfect-greenhouse-advanced-climate-control
-category: "מדעי החקלאות / אגרוטכנולוגיה"
+category: "אגרוטכנולוגיה"
 tags:
   - חממה
   - בקרת אקלים

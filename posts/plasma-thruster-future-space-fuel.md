@@ -1,7 +1,7 @@
 ---
 title: "מנוע פלזמה: הדלק העתידי של חקר החלל?"
 english_slug: plasma-thruster-future-space-fuel
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - פיזיקה
   - הנעה בחלל

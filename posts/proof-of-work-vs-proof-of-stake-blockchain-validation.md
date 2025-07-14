@@ -1,7 +1,7 @@
 ---
 title: "קרב המנגנונים: הוכחת עבודה מול הוכחת החזקה – איך בלוקצ'יין מגיע להסכמה?"
 english_slug: proof-of-work-vs-proof-of-stake-blockchain-validation
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - בלוקצ'יין
   - Proof of Work

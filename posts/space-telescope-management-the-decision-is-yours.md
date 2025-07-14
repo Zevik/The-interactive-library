@@ -1,7 +1,7 @@
 ---
 title: "ניהול טלסקופ החלל: ההחלטה בידיים שלך"
 english_slug: space-telescope-management-the-decision-is-yours
-category: "מדעי החלל"
+category: "אווירונאוטיקה וחלל"
 tags:
   - אסטרונומיה
   - טלסקופ חלל

@@ -1,7 +1,7 @@
 ---
 title: "המסע אל הלוגיקה המודרנית: משחק חקירה"
 english_slug: journey-to-modern-logic-exploration-game
-category: "מדעים מדויקים / מתמטיקה"
+category: "מתמטיקה"
 tags:
   - לוגיקה
   - פילוסופיה

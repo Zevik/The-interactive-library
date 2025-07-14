@@ -1,7 +1,7 @@
 ---
 title: "חשיפת העבר: לנהל חפירת דינוזאורים"
 english_slug: unearthing-the-past-manage-a-dinosaur-excavation
-category: "מדעי הסביבה / פלאונטולוגיה"
+category: "פלאונטולוגיה"
 tags: [דינוזאורים, פלאונטולוגיה, חפירות, מדע, ניהול]
 ---
 # חשיפת העבר: לנהל חפירת דינוזאורים

@@ -1,7 +1,7 @@
 ---
 title: "מסחר, דרכים וערים: מסע אינטראקטיבי"
 english_slug: trade-routes-and-cities-interactive-simulation
-category: "מדעי הסביבה / גאוגרפיה"
+category: "גאוגרפיה"
 tags: [התיישבות, תכנון מרחבי, כלכלה, מודלים, התפתחות עירונית, סימולציה, גאוגרפיה היסטורית]
 ---
 

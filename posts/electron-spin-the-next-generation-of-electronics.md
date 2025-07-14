@@ -1,7 +1,7 @@
 ---
 title: "ספין אלקטרוני: הדור הבא של האלקטרוניקה?"
 english_slug: electron-spin-the-next-generation-of-electronics
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: [ספינטרוניקה, ספין, אלקטרון, מגנטיות, ננוטכנולוגיה]
 ---
 <h1>ספין אלקטרוני: הדור הבא של האלקטרוניקה?</h1>

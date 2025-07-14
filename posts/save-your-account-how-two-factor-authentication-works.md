@@ -1,7 +1,7 @@
 ---
 title: "הצילו את החשבון שלכם: כך פועל אימות דו-שלבי (2FA)"
 english_slug: save-your-account-how-two-factor-authentication-works
-category: "טכנולוגיה / סייבר ואבטחת מידע"
+category: "סייבר ואבטחת מידע"
 tags:
   - אבטחת מידע
   - סייבר

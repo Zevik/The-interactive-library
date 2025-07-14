@@ -1,7 +1,7 @@
 ---
 title: "אפקט מגנוס: למה כדורים מתעקלים באוויר?"
 english_slug: magnus-effect-why-balls-curve-in-air
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - פיזיקה
   - דינמיקת נוזלים

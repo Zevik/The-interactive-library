@@ -1,7 +1,7 @@
 ---
 title: "משבר עולמי: האם תציל/י את הכלכלה?"
 english_slug: global-crisis-will-you-save-the-economy
-category: "מדעי החברה / כלכלה ופיננסים"
+category: "כלכלה"
 tags:
   - משבר פיננסי
   - 2008

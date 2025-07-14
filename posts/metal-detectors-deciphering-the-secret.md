@@ -1,7 +1,7 @@
 ---
 title: "גלאי מתכות: מבט אל הסודות החבויים"
 english_slug: metal-detectors-deciphering-the-secret
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags: ["גלאי מתכות", "השראה אלקטרומגנטית", "זרמי מערבולת", "שדות מגנטיים", "אלקטרומגנטיות", "פיזיקה ניסויית"]
 ---
 <div class="intro-text">

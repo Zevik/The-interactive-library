@@ -1,7 +1,7 @@
 ---
 title: "מסע אימון: איך המחשב לומד לקשר תמונה לטקסט?"
 english_slug: how-does-computer-understand-image-and-text-together-neural-network-training-simulator
-category: "טכנולוגיה / בינה מלאכותית"
+category: "בינה מלאכותית"
 tags: [רשתות עצביות, למידת מכונה, עיבוד תמונה, עיבוד שפה טבעית, למידה עמוקה, AI]
 ---
 # מסע אימון: איך המחשב לומד לקשר תמונה לטקסט?

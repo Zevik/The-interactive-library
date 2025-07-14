@@ -1,7 +1,7 @@
 ---
 title: "קפצתי מהמסך: מסע לכידת תנועה באנימציה"
 english_slug: leaping-off-the-screen-motion-capture-in-animation
-category: "אמנות ועיצוב / אמנות דיגיטלית"
+category: "אמנות דיגיטלית"
 tags:
 - לכידת תנועה
 - אנימציה תלת-ממדית

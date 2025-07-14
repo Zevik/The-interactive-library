@@ -1,7 +1,7 @@
 ---
 title: "בונים מודל חי: סימולציה של רשתות מטבוליות"
 english_slug: building-a-living-model-metabolic-networks-simulation
-category: "מדעי החיים / ביולוגיה"
+category: "ביולוגיה"
 tags:
   - מטבוליזם
   - רשתות מטבוליות

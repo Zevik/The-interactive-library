@@ -1,7 +1,7 @@
 ---
 title: "דילמת צייד האיילים: סימולטור אינטראקטיבי"
 english_slug: stag-hunt-dilemma-interactive-simulator
-category: "מדעי החברה / כלכלה התנהגותית"
+category: "כלכלה התנהגותית"
 tags:
   - תורת המשחקים
   - דילמה חברתית

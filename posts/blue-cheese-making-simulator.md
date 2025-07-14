@@ -1,7 +1,7 @@
 ---
 title: "המסע הכחול: סימולטור אמנות יצירת הגבינה"
 english_slug: blue-cheese-making-simulator
-category: "מדעי החיים / מדעי המזון"
+category: "מדעי המזון"
 tags:
   - גבינה כחולה
   - יצירת גבינה

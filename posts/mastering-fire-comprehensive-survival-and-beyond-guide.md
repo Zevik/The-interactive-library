@@ -1,7 +1,7 @@
 ---
 title: "אמנות האש: מדריך מקיף לבניית מדורות הישרדות ויותר"
 english_slug: mastering-fire-comprehensive-survival-and-beyond-guide
-category: "מדעי הטבע"
+category: "מדע כללי"
 tags:
   - הישרדות
   - פיזיקה

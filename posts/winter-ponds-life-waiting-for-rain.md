@@ -1,7 +1,7 @@
 ---
 title: "בריכות חורף: מסע אל החיים שמחכים לגשם"
 english_slug: winter-ponds-life-waiting-for-rain
-category: "מדעי הסביבה / אקולוגיה וקיימות"
+category: "אקולוגיה"
 tags: [אקולוגיה, בריכות חורף, מערכות אקולוגיות, מגוון ביולוגי, סביבה]
 ---
 <div class="intro">

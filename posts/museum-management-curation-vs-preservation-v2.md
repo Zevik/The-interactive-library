@@ -1,7 +1,7 @@
 ---
 title: "ניהול מוזיאון: האמנות שמאחורי הקלעים"
 english_slug: museum-management-curation-vs-preservation-v2
-category: "ניהול ועסקים / ניהול תרבות"
+category: "ניהול תרבות ואמנות"
 tags:
   - מוזיאונים
   - אצירה

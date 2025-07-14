@@ -1,7 +1,7 @@
 ---
 title: "לראות בתוך הגוף: מסע אל תוך MRI"
 english_slug: seeing-inside-the-body-how-mri-works
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - MRI
   - דימות רפואי

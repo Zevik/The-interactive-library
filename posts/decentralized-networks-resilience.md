@@ -1,7 +1,7 @@
 ---
 title: "רשתות מבוזרות: למה עמידות עולה על מרכזיות?"
 english_slug: decentralized-networks-resilience
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - רשתות תקשורת
   - מבוזר

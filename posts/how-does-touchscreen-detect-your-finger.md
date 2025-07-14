@@ -1,7 +1,7 @@
 ---
 title: "קסם המגע: איך הטלפון שלך יודע היכן נגעת?"
 english_slug: how-does-touchscreen-detect-your-finger
-category: "מדעים מדויקים / פיזיקה"
+category: "פיזיקה"
 tags:
   - מסך מגע
   - קיבולי

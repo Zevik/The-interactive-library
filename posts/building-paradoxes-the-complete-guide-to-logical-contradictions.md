@@ -1,7 +1,7 @@
 ---
 title: "בונים פרדוקסים: המדריך המלא לסתירות לוגיות"
 english_slug: building-paradoxes-the-complete-guide-to-logical-contradictions
-category: "מדעים מדויקים / מתמטיקה"
+category: "מתמטיקה"
 tags:
   - פרדוקס
   - לוגיקה

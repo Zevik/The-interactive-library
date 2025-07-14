@@ -1,7 +1,7 @@
 ---
 title: "מסע אל הקוטור: מהסקיצה לתפירה ידנית"
 english_slug: journey-to-couture-from-sketch-to-hand-sewing
-category: "אמנות ועיצוב / אופנה וטקסטיל"
+category: "אופנה וטקסטיל"
 tags:
   - קוטור
   - אופנה עילית

@@ -1,7 +1,7 @@
 ---
 title: "קוד ויזואלי: עקרונות הגשטאלט בחוויה אינטראקטיבית"
 english_slug: gestalt-principles-in-action-proximity-similarity-closure
-category: "מדעי החברה / פסיכולוגיה"
+category: "פסיכולוגיה"
 tags:
   - גשטאלט
   - תפיסה חזותית

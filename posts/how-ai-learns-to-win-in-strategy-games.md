@@ -1,7 +1,7 @@
 ---
 title: "איך בינה מלאכותית לומדת לנצח במשחקי אסטרטגיה?"
 english_slug: how-ai-learns-to-win-in-strategy-games
-category: "טכנולוגיה / מדעי המחשב"
+category: "מדעי המחשב"
 tags:
   - בינה מלאכותית
   - למידת חיזוק

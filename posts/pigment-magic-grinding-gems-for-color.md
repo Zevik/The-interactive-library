@@ -1,7 +1,7 @@
 ---
 title: "קסם הפיגמנט: לגלות את הכחול היקר מזהב"
 english_slug: pigment-magic-grinding-gems-for-color
-category: "אמנות ועיצוב / תולדות האמנות"
+category: "תולדות האמנות"
 tags:
   - כימיה
   - תולדות האמנות
